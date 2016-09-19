@@ -1,0 +1,1204 @@
+1	Going Deeper With Convolutions [full paper] [ext. abstract]
+Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
+2	Propagated Image Filtering [full paper] [ext. abstract]
+Jen-Hao Rick Chang, Yu-Chiang Frank Wang
+3	Web Scale Photo Hash Clustering on A Single Machine [full paper] [ext. abstract]
+Yunchao Gong, Marcin Pawlowski, Fei Yang, Louis Brandy, Lubomir Bourdev, Rob Fergus
+4	Expanding Object Detector's Horizon: Incremental Learning Framework for Object Detection in Videos [full paper] [ext. abstract]
+Alina Kuznetsova, Sung Ju Hwang, Bodo Rosenhahn, Leonid Sigal
+5	Supervised Discrete Hashing [full paper] [ext. abstract]
+Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen
+6	What do 15,000 Object Categories Tell Us About Classifying and Localizing Actions? [full paper] [ext. abstract]
+Mihir Jain, Jan C. van Gemert, Cees G. M. Snoek
+7	Landmarks-Based Kernelized Subspace Alignment for Unsupervised Domain Adaptation [full paper] [ext. abstract]
+Rahaf Aljundi, Rémi Emonet, Damien Muselet, Marc Sebban
+8	Blur Kernel Estimation Using Normalized Color-Line Prior [full paper] [ext. abstract]
+Wei-Sheng Lai, Jian-Jiun Ding, Yen-Yu Lin, Yung-Yu Chuang
+9	A Light Transport Model for Mitigating Multipath Interference in Time-of-Flight Sensors [full paper] [ext. abstract]
+Nikhil Naik, Achuta Kadambi, Christoph Rhemann, Shahram Izadi, Ramesh Raskar, Sing Bing Kang
+10	Traditional Saliency Reloaded: A Good Old Model in New Shape [full paper] [ext. abstract]
+Simone Frintrop, Thomas Werner, Germán Martin Garcia
+11	Automatic Construction Of Robust Spherical Harmonic Subspaces [full paper] [ext. abstract]
+Patrick Snape, Yannis Panagakis, Stefanos Zafeiriou
+12	Leveraging Stereo Matching With Learning-Based Confidence Measures [full paper] [ext. abstract]
+Min-Gyu Park, Kuk-Jin Yoon
+13	Saliency Detection via Cellular Automata [full paper] [ext. abstract]
+Yao Qin, Huchuan Lu, Yiqun Xu, He Wang
+14	Efficient Sparse-to-Dense Optical Flow Estimation Using a Learned Basis and Layers [full paper] [ext. abstract]
+Jonas Wulff, Michael J. Black
+15	Learning Multiple Visual Tasks While Discovering Their Structure [full paper] [ext. abstract]
+Carlo Ciliberto, Lorenzo Rosasco, Silvia Villa
+16	Projection Metric Learning on Grassmann Manifold With Application to Video Based Face Recognition [full paper] [ext. abstract]
+Zhiwu Huang, Ruiping Wang, Shiguang Shan, Xilin Chen
+17	Structural Sparse Tracking [full paper] [ext. abstract]
+Tianzhu Zhang, Si Liu, Changsheng Xu, Shuicheng Yan, Bernard Ghanem, Narendra Ahuja, Ming-Hsuan Yang
+18	Data-Driven Depth Map Refinement via Multi-Scale Sparse Representation [full paper] [ext. abstract]
+HyeokHyen Kwon, Yu-Wing Tai, Stephen Lin
+19	Uncalibrated Photometric Stereo Based on Elevation Angle Recovery From BRDF Symmetry of Isotropic Materials [full paper] [ext. abstract]
+Feng Lu, Imari Sato, Yoichi Sato
+20	Attributes and Categories for Generic Instance Search From One Example [full paper] [ext. abstract]
+Ran Tao, Arnold W.M. Smeulders, Shih-Fu Chang
+21	Heat Diffusion Over Weighted Manifolds: A New Descriptor for Textured 3D Non-Rigid Shapes [full paper] [ext. abstract]
+Mostafa Abdelrahman, Aly Farag, David Swanson, Moumen T. El-Melegy
+22	A Dynamic Programming Approach for Fast and Robust Object Pose Recognition From Range Images [full paper] [ext. abstract]
+Christopher Zach, Adrian Penate-Sanchez, Minh-Tri Pham
+23	Beyond Gaussian Pyramid: Multi-Skip Feature Stacking for Action Recognition [full paper] [ext. abstract]
+Zhengzhong Lan, Ming Lin, Xuanchong Li, Alex G. Hauptmann, Bhiksha Raj
+24	A Geodesic-Preserving Method for Image Warping [full paper] [ext. abstract]
+Dongping Li, Kaiming He, Jian Sun, Kun Zhou
+25	Shape Driven Kernel Adaptation in Convolutional Neural Network for Robust Facial Traits Recognition [full paper] [ext. abstract]
+Shaoxin Li, Junliang Xing, Zhiheng Niu, Shiguang Shan, Shuicheng Yan
+26	From Categories to Subcategories: Large-Scale Image Classification With Partial Class Label Refinement [full paper] [ext. abstract]
+Marko Ristin, Juergen Gall, Matthieu Guillaumin, Luc Van Gool
+27	Combination Features and Models for Human Detection [full paper] [ext. abstract]
+Yunsheng Jiang, Jinwen Ma
+28	Improving Object Detection With Deep Convolutional Networks via Bayesian Optimization and Structured Prediction [full paper] [ext. abstract]
+Yuting Zhang, Kihyuk Sohn, Ruben Villegas, Gang Pan, Honglak Lee
+29	A Metric Parametrization for Trifocal Tensors With Non-Colinear Pinholes [full paper] [ext. abstract]
+Spyridon Leonardos, Roberto Tron, Kostas Daniilidis
+30	An Efficient Volumetric Framework for Shape Tracking [full paper] [ext. abstract]
+Benjamin Allain, Jean-Sébastien Franco, Edmond Boyer
+31	Structured Sparse Subspace Clustering: A Unified Optimization Framework [full paper] [ext. abstract]
+Chun-Guang Li, René Vidal
+32	Delving Into Egocentric Actions [full paper] [ext. abstract]
+Yin Li, Zhefan Ye, James M. Rehg
+33	Latent Trees for Estimating Intensity of Facial Action Units [full paper] [ext. abstract]
+Sebastian Kaltwang, Sinisa Todorovic, Maja Pantic
+34	Robust Regression on Image Manifolds for Ordered Label Denoising [full paper] [ext. abstract]
+Hui Wu, Richard Souvenir
+35	Privacy Preserving Optics for Miniature Vision Sensors [full paper] [ext. abstract]
+Francesco Pittaluga, Sanjeev J. Koppal
+36	Deep Transfer Metric Learning [full paper] [ext. abstract]
+Junlin Hu, Jiwen Lu, Yap-Peng Tan
+37	Small-Variance Nonparametric Clustering on the Hypersphere [full paper] [ext. abstract]
+Julian Straub, Trevor Campbell, Jonathan P. How, John W. Fisher III
+38	DynamicFusion: Reconstruction and Tracking of Non-Rigid Scenes in Real-Time [full paper] [ext. abstract]
+Richard A. Newcombe, Dieter Fox, Steven M. Seitz
+39	Reliable Patch Trackers: Robust Visual Tracking by Exploiting Reliable Patches [full paper] [ext. abstract]
+Yang Li, Jianke Zhu, Steven C.H. Hoi
+40	Predicting Eye Fixations Using Convolutional Neural Networks [full paper] [ext. abstract]
+Nian Liu, Junwei Han, Dingwen Zhang, Shifeng Wen, Tianming Liu
+41	Kernel Fusion for Better Image Deblurring [full paper] [ext. abstract]
+Long Mai, Feng Liu
+42	Direction Matters: Depth Estimation With a Surface Normal Classifier [full paper] [ext. abstract]
+Christian Häne, Ľubor Ladický, Marc Pollefeys
+43	Modeling Local and Global Deformations in Deep Learning: Epitomic Convolution, Multiple Instance Learning, and Sliding Window Detection [full paper] [ext. abstract]
+George Papandreou, Iasonas Kokkinos, Pierre-André Savalle
+44	Grasp Type Revisited: A Modern Perspective on a Classical Feature for Vision [full paper] [ext. abstract]
+Yezhou Yang, Cornelia Fermüller, Yi Li, Yiannis Aloimonos
+45	Learning Hypergraph-Regularized Attribute Predictors [full paper] [ext. abstract]
+Sheng Huang, Mohamed Elhoseiny, Ahmed Elgammal, Dan Yang
+46	A Coarse-to-Fine Model for 3D Pose Estimation and Sub-Category Recognition [full paper] [ext. abstract]
+Roozbeh Mottaghi, Yu Xiang, Silvio Savarese
+47	Deep Neural Networks Are Easily Fooled: High Confidence Predictions for Unrecognizable Images [full paper] [ext. abstract]
+Anh Nguyen, Jason Yosinski, Jeff Clune
+48	Deformable Part Models are Convolutional Neural Networks [full paper] [ext. abstract]
+Ross Girshick, Forrest Iandola, Trevor Darrell, Jitendra Malik
+49	Hypercolumns for Object Segmentation and Fine-Grained Localization [full paper] [ext. abstract]
+Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik
+50	Mapping Visual Features to Semantic Profiles for Retrieval in Medical Imaging [full paper] [ext. abstract]
+Johannes Hofmanninger, Georg Langs
+51	Event-Driven Stereo Matching for Real-Time 3D Panoramic Vision [full paper] [ext. abstract]
+Stephan Schraml, Ahmed Nabil Belbachir, Horst Bischof
+52	Graph-Based Simplex Method for Pairwise Energy Minimization With Binary Variables [full paper] [ext. abstract]
+Daniel Průša
+53	Image Denoising via Adaptive Soft-Thresholding Based on Non-Local Samples [full paper] [ext. abstract]
+Hangfan Liu, Ruiqin Xiong, Jian Zhang, Wen Gao
+54	3D Scanning Deformable Objects With a Single RGBD Sensor [full paper] [ext. abstract]
+Mingsong Dou, Jonathan Taylor, Henry Fuchs, Andrew Fitzgibbon, Shahram Izadi
+55	Nested Motion Descriptors [full paper] [ext. abstract]
+Jeffrey Byrne
+56	Efficient Minimal-Surface Regularization of Perspective Depth Maps in Variational Stereo [full paper] [ext. abstract]
+Gottfried Graber, Jonathan Balzer, Stefano Soatto, Thomas Pock
+57	Maximum Persistency via Iterative Relaxed Inference With Graphical Models [full paper] [ext. abstract]
+Alexander Shekhovtsov, Paul Swoboda, Bogdan Savchynskyy
+58	Deep Hierarchical Parsing for Semantic Segmentation [full paper] [ext. abstract]
+Abhishek Sharma, Oncel Tuzel, David W. Jacobs
+59	Designing Deep Networks for Surface Normal Estimation [full paper] [ext. abstract]
+Xiaolong Wang, David Fouhey, Abhinav Gupta
+60	Layered RGBD Scene Flow Estimation [full paper] [ext. abstract]
+Deqing Sun, Erik B. Sudderth, Hanspeter Pfister
+61	Hashing With Binary Autoencoders [full paper] [ext. abstract]
+Miguel Á. Carreira-Perpiñán, Ramin Raziperchikolaei
+62	SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite [full paper] [ext. abstract]
+Shuran Song, Samuel P. Lichtenberg, Jianxiong Xiao
+63	Collaborative Feature Learning From Social Media [full paper] [ext. abstract]
+Chen Fang, Hailin Jin, Jianchao Yang, Zhe Lin
+64	Diversity-Induced Multi-View Subspace Clustering [full paper] [ext. abstract]
+Xiaochun Cao, Changqing Zhang, Huazhu Fu, Si Liu, Hua Zhang
+65	Building a Bird Recognition App and Large Scale Dataset With Citizen Scientists: The Fine Print in Fine-Grained Dataset Collection [full paper] [ext. abstract]
+Grant Van Horn, Steve Branson, Ryan Farrell, Scott Haber, Jessie Barry, Panos Ipeirotis, Pietro Perona, Serge Belongie
+66	Early Burst Detection for Memory-Efficient Image Retrieval [full paper] [ext. abstract]
+Miaojing Shi, Yannis Avrithis, Hervé Jégou
+67	Indoor Scene Structure Analysis for Single Image Depth Estimation [full paper] [ext. abstract]
+Wei Zhuo, Mathieu Salzmann, Xuming He, Miaomiao Liu
+68	Light Field Layer Matting [full paper] [ext. abstract]
+Juliet Fiss, Brian Curless, Rick Szeliski
+69	Depth Camera Tracking With Contour Cues [full paper] [ext. abstract]
+Qian-Yi Zhou, Vladlen Koltun
+70	Radial Distortion Homography [full paper] [ext. abstract]
+Zuzana Kukelova, Jan Heller, Martin Bujnak, Tomas Pajdla
+71	Efficient Object Localization Using Convolutional Networks [full paper] [ext. abstract]
+Jonathan Tompson, Ross Goroshin, Arjun Jain, Yann LeCun, Christoph Bregler
+72	Just Noticeable Defocus Blur Detection and Estimation [full paper] [ext. abstract]
+Jianping Shi, Li Xu, Jiaya Jia
+73	How Do We Use Our Hands? Discovering a Diverse Set of Common Grasps [full paper] [ext. abstract]
+De-An Huang, Minghuang Ma, Wei-Chiu Ma, Kris M. Kitani
+74	Rotating Your Face Using Multi-Task Deep Neural Network [full paper] [ext. abstract]
+Junho Yim, Heechul Jung, ByungIn Yoo, Changkyu Choi, Dusik Park, Junmo Kim
+75	Is Object Localization for Free? - Weakly-Supervised Learning With Convolutional Neural Networks [full paper] [ext. abstract]
+Maxime Oquab, Léon Bottou, Ivan Laptev, Josef Sivic
+76	Super-Resolution Person Re-Identification With Semi-Coupled Low-Rank Discriminant Dictionary Learning [full paper] [ext. abstract]
+Xiao-Yuan Jing, Xiaoke Zhu, Fei Wu, Xinge You, Qinglong Liu, Dong Yue, Ruimin Hu, Baowen Xu
+77	Dual Domain Filters Based Texture and Structure Preserving Image Non-Blind Deconvolution [full paper] [ext. abstract]
+Hang Yang, Ming Zhu, Yan Niu, Yujing Guan, Zhongbo Zhang
+78	Region-Based Temporally Consistent Video Post-Processing [full paper] [ext. abstract]
+Xuan Dong, Boyan Bonev, Yu Zhu, Alan L. Yuille
+79	Global Refinement of Random Forest [full paper] [ext. abstract]
+Shaoqing Ren, Xudong Cao, Yichen Wei, Jian Sun
+80	Adaptive Region Pooling for Object Detection [full paper] [ext. abstract]
+Yi-Hsuan Tsai, Onur C. Hamsici, Ming-Hsuan Yang
+81	Discriminative and Consistent Similarities in Instance-Level Multiple Instance Learning [full paper] [ext. abstract]
+Mohammad Rastegari, Hannaneh Hajishirzi, Ali Farhadi
+82	MUlti-Store Tracker (MUSTer): A Cognitive Psychology Inspired Approach to Object Tracking [full paper] [ext. abstract]
+Zhibin Hong, Zhe Chen, Chaohui Wang, Xue Mei, Danil Prokhorov, Dacheng Tao
+83	Finding Action Tubes [full paper] [ext. abstract]
+Georgia Gkioxari, Jitendra Malik
+84	Learning a Convolutional Neural Network for Non-Uniform Motion Blur Removal [full paper] [ext. abstract]
+Jian Sun, Wenfei Cao, Zongben Xu, Jean Ponce
+85	Complexity-Adaptive Distance Metric for Object Proposals Generation [full paper] [ext. abstract]
+Yao Xiao, Cewu Lu, Efstratios Tsougenis, Yongyi Lu, Chi-Keung Tang
+86	High-Fidelity Pose and Expression Normalization for Face Recognition in the Wild [full paper] [ext. abstract]
+Xiangyu Zhu, Zhen Lei, Junjie Yan, Dong Yi, Stan Z. Li
+87	Transformation of Markov Random Fields for Marginal Distribution Estimation [full paper] [ext. abstract]
+Masaki Saito, Takayuki Okatani
+88	Sparse Convolutional Neural Networks [full paper] [ext. abstract]
+Baoyuan Liu, Min Wang, Hassan Foroosh, Marshall Tappen, Marianna Pensky
+89	FaceNet: A Unified Embedding for Face Recognition and Clustering [full paper] [ext. abstract]
+Florian Schroff, Dmitry Kalenichenko, James Philbin
+90	Cascaded Hand Pose Regression [full paper] [ext. abstract]
+Xiao Sun, Yichen Wei, Shuang Liang, Xiaoou Tang, Jian Sun
+91	Cross-Scene Crowd Counting via Deep Convolutional Neural Networks [full paper] [ext. abstract]
+Cong Zhang, Hongsheng Li, Xiaogang Wang, Xiaokang Yang
+92	The Application of Two-Level Attention Models in Deep Convolutional Neural Network for Fine-Grained Image Classification [full paper] [ext. abstract]
+Tianjun Xiao, Yichong Xu, Kuiyuan Yang, Jiaxing Zhang, Yuxin Peng, Zheng Zhang
+93	End-to-End Integration of a Convolution Network, Deformable Parts Model and Non-Maximum Suppression [full paper] [ext. abstract]
+Li Wan, David Eigen, Rob Fergus
+94	A Mixed Bag of Emotions: Model, Predict, and Transfer Emotion Distributions [full paper] [ext. abstract]
+Kuan-Chuan Peng, Tsuhan Chen, Amir Sadovnik, Andrew C. Gallagher
+95	Neuroaesthetics in Fashion: Modeling the Perception of Fashionability [full paper] [ext. abstract]
+Edgar Simo-Serra, Sanja Fidler, Francesc Moreno-Noguer, Raquel Urtasun
+96	Part-Based Modelling of Compound Scenes From Images [full paper] [ext. abstract]
+Anton van den Hengel, Chris Russell, Anthony Dick, John Bastian, Daniel Pooley, Lachlan Fleming, Lourdes Agapito
+97	Efficient Parallel Optimization for Potts Energy With Hierarchical Fusion [full paper] [ext. abstract]
+Olga Veksler
+98	Pooled Motion Features for First-Person Videos [full paper] [ext. abstract]
+Michael S. Ryoo, Brandon Rothrock, Larry Matthies
+99	Functional Correspondence by Matrix Completion [full paper] [ext. abstract]
+Artiom Kovnatsky, Michael M. Bronstein, Xavier Bresson, Pierre Vandergheynst
+100	Elastic-Net Regularization of Singular Values for Robust Subspace Learning [full paper] [ext. abstract]
+Eunwoo Kim, Minsik Lee, Songhwai Oh
+101	Hardware Compliant Approximate Image Codes [full paper] [ext. abstract]
+Da Kuang, Alex Gittens, Raffay Hamid
+102	Photometric Refinement of Depth Maps for Multi-Albedo Objects [full paper] [ext. abstract]
+Avishek Chatterjee, Venu Madhav Govindu
+103	Predicting the Future Behavior of a Time-Varying Probability Distribution [full paper] [ext. abstract]
+Christoph H. Lampert
+104	Classifier Based Graph Construction for Video Segmentation [full paper] [ext. abstract]
+Anna Khoreva, Fabio Galasso, Matthias Hein, Bernt Schiele
+105	ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding [full paper] [ext. abstract]
+Fabian Caba Heilbron, Victor Escorcia, Bernard Ghanem, Juan Carlos Niebles
+106	Mid-Level Deep Pattern Mining [full paper] [ext. abstract]
+Yao Li, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
+107	Prediction of Search Targets From Fixations in Open-World Settings [full paper] [ext. abstract]
+Hosnieh Sattar, Sabine Müller, Mario Fritz, Andreas Bulling
+108	Understanding Image Representations by Measuring Their Equivariance and Equivalence [full paper] [ext. abstract]
+Karel Lenc, Andrea Vedaldi
+109	Effective Learning-Based Illuminant Estimation Using Simple Features [full paper] [ext. abstract]
+Dongliang Cheng, Brian Price, Scott Cohen, Michael S. Brown
+110	PAIGE: PAirwise Image Geometry Encoding for Improved Efficiency in Structure-From-Motion [full paper] [ext. abstract]
+Johannes L. Schönberger, Alexander C. Berg, Jan-Michael Frahm
+111	Dense, Accurate Optical Flow Estimation With Piecewise Parametric Model [full paper] [ext. abstract]
+Jiaolong Yang, Hongdong Li
+112	Single-Image Estimation of the Camera Response Function in Near-Lighting [full paper] [ext. abstract]
+Pedro Rodrigues, João P. Barreto
+113	Multispectral Pedestrian Detection: Benchmark Dataset and Baseline [full paper] [ext. abstract]
+Soonmin Hwang, Jaesik Park, Namil Kim, Yukyung Choi, In So Kweon
+114	A Low-Dimensional Step Pattern Analysis Algorithm With Application to Multimodal Retinal Image Registration [full paper] [ext. abstract]
+Jimmy Addison Lee, Jun Cheng, Beng Hai Lee, Ee Ping Ong, Guozhen Xu, Damon Wing Kee Wong, Jiang Liu, Augustinus Laude, Tock Han Lim
+115	Bilinear Heterogeneous Information Machine for RGB-D Action Recognition [full paper] [ext. abstract]
+Yu Kong, Yun Fu
+116	MRF Optimization by Graph Approximation [full paper] [ext. abstract]
+Wonsik Kim, Kyoung Mu Lee
+117	SALICON: Saliency in Context [full paper] [ext. abstract]
+Ming Jiang, Shengsheng Huang, Juanyong Duan, Qi Zhao
+118	Weakly Supervised Object Detection With Convex Clustering [full paper] [ext. abstract]
+Hakan Bilen, Marco Pedersoli, Tinne Tuytelaars
+119	Interleaved Text/Image Deep Mining on a Very Large-Scale Radiology Database [full paper] [ext. abstract]
+Hoo-Chang Shin, Le Lu, Lauren Kim, Ari Seff, Jianhua Yao, Ronald M. Summers
+120	Learning Semantic Relationships for Better Action Retrieval in Images [full paper] [ext. abstract]
+Vignesh Ramanathan, Congcong Li, Jia Deng, Wei Han, Zhen Li, Kunlong Gu, Yang Song, Samy Bengio, Charles Rosenberg, Li Fei-Fei
+121	Hierarchical Recurrent Neural Network for Skeleton Based Action Recognition [full paper] [ext. abstract]
+Yong Du, Wei Wang, Liang Wang
+1	Depth and Surface Normal Estimation From Monocular Images Using Regression on Deep Features and Hierarchical CRFs [full paper] [ext. abstract]
+Bo Li, Chunhua Shen, Yuchao Dai, Anton van den Hengel, Mingyi He
+2	Discriminative Shape From Shading in Uncalibrated Illumination [full paper] [ext. abstract]
+Stephan R. Richter, Stefan Roth
+3	Multi-Manifold Deep Metric Learning for Image Set Classification [full paper] [ext. abstract]
+Jiwen Lu, Gang Wang, Weihong Deng, Pierre Moulin, Jie Zhou
+4	Target Identity-Aware Network Flow for Online Multiple Target Tracking [full paper] [ext. abstract]
+Afshin Dehghan, Yicong Tian, Philip H. S. Torr, Mubarak Shah
+5	Adaptive As-Natural-As-Possible Image Stitching [full paper] [ext. abstract]
+Chung-Ching Lin, Sharathchandra U. Pankanti, Karthikeyan Natesan Ramamurthy, Aleksandr Y. Aravkin
+6	EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow [full paper] [ext. abstract]
+Jerome Revaud, Philippe Weinzaepfel, Zaid Harchaoui, Cordelia Schmid
+7	Learning Coarse-to-Fine Sparselets for Efficient Object Detection and Scene Classification [full paper] [ext. abstract]
+Gong Cheng, Junwei Han, Lei Guo, Tianming Liu
+8	Continuous Visibility Feature [full paper] [ext. abstract]
+Guilin Liu, Yotam Gingold, Jyh-Ming Lien
+9	FlowWeb: Joint Image Set Alignment by Weaving Consistent, Pixel-Wise Correspondences [full paper] [ext. abstract]
+Tinghui Zhou, Yong Jae Lee, Stella X. Yu, Alyosha A. Efros
+10	Unsupervised Object Discovery and Localization in the Wild: Part-Based Matching With Bottom-Up Region Proposals [full paper] [ext. abstract]
+Minsu Cho, Suha Kwak, Cordelia Schmid, Jean Ponce
+11	Supervised Descriptor Learning for Multi-Output Regression [full paper] [ext. abstract]
+Xiantong Zhen, Zhijie Wang, Mengyang Yu, Shuo Li
+12	A Statistical Model of Riemannian Metric Variation for Deformable Shape Analysis [full paper] [ext. abstract]
+Andrea Gasparetto, Andrea Torsello
+13	Temporally Coherent Interpretations for Long Videos Using Pattern Theory [full paper] [ext. abstract]
+Fillipe Souza, Sudeep Sarkar, Anuj Srivastava, Jingyong Su
+14	Line-Sweep: Cross-Ratio For Wide-Baseline Matching and 3D Reconstruction [full paper] [ext. abstract]
+Srikumar Ramalingam, Michel Antunes, Dan Snow, Gim Hee Lee, Sudeep Pillai
+15	Simplified Mirror-Based Camera Pose Computation via Rotation Averaging [full paper] [ext. abstract]
+Gucan Long, Laurent Kneip, Xin Li, Xiaohu Zhang, Qifeng Yu
+16	On the Relationship Between Visual Attributes and Convolutional Networks [full paper] [ext. abstract]
+Victor Escorcia, Juan Carlos Niebles, Bernard Ghanem
+17	Saliency Detection by Multi-Context Deep Learning [full paper] [ext. abstract]
+Rui Zhao, Wanli Ouyang, Hongsheng Li, Xiaogang Wang
+18	DeepShape: Deep Learned Shape Descriptor for 3D Shape Matching and Retrieval [full paper] [ext. abstract]
+Jin Xie, Yi Fang, Fan Zhu, Edward Wong
+19	Bayesian Adaptive Matrix Factorization With Automatic Model Selection [full paper] [ext. abstract]
+Peixian Chen, Naiyan Wang, Nevin L. Zhang, Dit-Yan Yeung
+20	Joint Action Recognition and Pose Estimation From Video [full paper] [ext. abstract]
+Bruce Xiaohan Nie, Caiming Xiong, Song-Chun Zhu
+21	Fast Action Proposals for Human Action Detection and Search [full paper] [ext. abstract]
+Gang Yu, Junsong Yuan
+22	Joint Multi-Feature Spatial Context for Scene Recognition on the Semantic Manifold [full paper] [ext. abstract]
+Xinhang Song, Shuqiang Jiang, Luis Herranz
+23	Large-Scale Damage Detection Using Satellite Imagery [full paper] [ext. abstract]
+Lionel Gueguen, Raffay Hamid
+24	A Novel Locally Linear KNN Model for Visual Recognition [full paper] [ext. abstract]
+Qingfeng Liu, Chengjun Liu
+25	Bilinear Random Projections for Locality-Sensitive Binary Codes [full paper] [ext. abstract]
+Saehoon Kim, Seungjin Choi
+26	Combining Local Appearance and Holistic View: Dual-Source Deep Neural Networks for Human Pose Estimation [full paper] [ext. abstract]
+Xiaochuan Fan, Kang Zheng, Yuewei Lin, Song Wang
+27	Superpixel Segmentation Using Linear Spectral Clustering [full paper] [ext. abstract]
+Zhengqin Li, Jiansheng Chen
+28	Person Count Localization in Videos From Noisy Foreground and Detections [full paper] [ext. abstract]
+Sheng Chen, Alan Fern, Sinisa Todorovic
+29	Good Features to Track for Visual SLAM [full paper] [ext. abstract]
+Guangcong Zhang, Patricio A. Vela
+30	Discovering States and Transformations in Image Collections [full paper] [ext. abstract]
+Phillip Isola, Joseph J. Lim, Edward H. Adelson
+31	Generalized Deformable Spatial Pyramid: Geometry-Preserving Dense Correspondence Estimation [full paper] [ext. abstract]
+Junhwa Hur, Hwasup Lim, Changsoo Park, Sang Chul Ahn
+32	Classifier Adaptation at Prediction Time [full paper] [ext. abstract]
+Amélie Royer, Christoph H. Lampert
+33	Phase-Based Frame Interpolation for Video [full paper] [ext. abstract]
+Simone Meyer, Oliver Wang, Henning Zimmer, Max Grosse, Alexander Sorkine-Hornung
+34	Matching-CNN Meets KNN: Quasi-Parametric Human Parsing [full paper] [ext. abstract]
+Si Liu, Xiaodan Liang, Luoqi Liu, Xiaohui Shen, Jianchao Yang, Changsheng Xu, Liang Lin, Xiaochun Cao, Shuicheng Yan
+35	Absolute Pose for Cameras Under Flat Refractive Interfaces [full paper] [ext. abstract]
+Sebastian Haner, Kalle Åström
+36	Protecting Against Screenshots: An Image Processing Approach [full paper] [ext. abstract]
+Alex Yong-Sang Chia, Udana Bandara, Xiangyu Wang, Hiromi Hirano
+37	Pose-Conditioned Joint Angle Limits for 3D Human Pose Reconstruction [full paper] [ext. abstract]
+Ijaz Akhter, Michael J. Black
+38	VisKE: Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases [full paper] [ext. abstract]
+Fereshteh Sadeghi, Santosh K. Kumar Divvala, Ali Farhadi
+39	A Graphical Model Approach for Matching Partial Signatures [full paper] [ext. abstract]
+Xianzhi Du, David Doermann, Wael Abd-Almageed
+40	From Captions to Visual Concepts and Back [full paper] [ext. abstract]
+Hao Fang, Saurabh Gupta, Forrest Iandola, Rupesh K. Srivastava, Li Deng, Piotr Dollár, Jianfeng Gao, Xiaodong He, Margaret Mitchell, John C. Platt, C. Lawrence Zitnick, Geoffrey Zweig
+41	Semi-Supervised Low-Rank Mapping Learning for Multi-Label Classification [full paper] [ext. abstract]
+Liping Jing, Liu Yang, Jian Yu, Michael K. Ng
+42	ConceptLearner: Discovering Visual Concepts From Weakly Labeled Image Collections [full paper] [ext. abstract]
+Bolei Zhou, Vignesh Jagadeesh, Robinson Piramuthu
+43	Computationally Bounded Retrieval [full paper] [ext. abstract]
+Mohammad Rastegari, Cem Keskin, Pushmeet Kohli, Shahram Izadi
+44	Viewpoints and Keypoints [full paper] [ext. abstract]
+Shubham Tulsiani, Jitendra Malik
+45	Discrete Hyper-Graph Matching [full paper] [ext. abstract]
+Junchi Yan, Chao Zhang, Hongyuan Zha, Wei Liu, Xiaokang Yang, Stephen M. Chu
+46	Rolling Shutter Motion Deblurring [full paper] [ext. abstract]
+Shuochen Su, Wolfgang Heidrich
+47	Learning to Generate Chairs With Convolutional Neural Networks [full paper] [ext. abstract]
+Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox
+48	Accurate Depth Map Estimation From a Lenslet Light Field Camera [full paper] [ext. abstract]
+Hae-Gon Jeon, Jaesik Park, Gyeongmin Choe, Jinsun Park, Yunsu Bok, Yu-Wing Tai, In So Kweon
+49	Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval [full paper] [ext. abstract]
+Fang Zhao, Yongzhen Huang, Liang Wang, Tieniu Tan
+50	Similarity Learning on an Explicit Polynomial Kernel Feature Map for Person Re-Identification [full paper] [ext. abstract]
+Dapeng Chen, Zejian Yuan, Gang Hua, Nanning Zheng, Jingdong Wang
+51	Learning to Propose Objects [full paper] [ext. abstract]
+Philipp Krähenbühl, Vladlen Koltun
+52	Basis Mapping Based Boosting for Object Detection [full paper] [ext. abstract]
+Haoyu Ren, Ze-Nian Li
+53	Computing the Stereo Matching Cost With a Convolutional Neural Network [full paper] [ext. abstract]
+Jure Žbontar, Yann LeCun
+54	Recognize Complex Events From Static Images by Fusing Deep Channels [full paper] [ext. abstract]
+Yuanjun Xiong, Kai Zhu, Dahua Lin, Xiaoou Tang
+55	Multi-Feature Max-Margin Hierarchical Bayesian Model for Action Recognition [full paper] [ext. abstract]
+Shuang Yang, Chunfeng Yuan, Baoxin Wu, Weiming Hu, Fangshi Wang
+56	Model Recommendation: Generating Object Detectors From Few Samples [full paper] [ext. abstract]
+Yu-Xiong Wang, Martial Hebert
+57	A Linear Least-Squares Solution to Elastic Shape-From-Template [full paper] [ext. abstract]
+Abed Malti, Adrien Bartoli, Richard Hartley
+58	Robust Large Scale Monocular Visual SLAM [full paper] [ext. abstract]
+Guillaume Bourmaud, Rémi Mégret
+59	Membership Representation for Detecting Block-Diagonal Structure in Low-Rank or Sparse Subspace Clustering [full paper] [ext. abstract]
+Minsik Lee, Jieun Lee, Hyeogjin Lee, Nojun Kwak
+60	Bayesian Inference for Neighborhood Filters With Application in Denoising [full paper] [ext. abstract]
+Chao-Tsung Huang
+61	Deep LAC: Deep Localization, Alignment and Classification for Fine-Grained Recognition [full paper] [ext. abstract]
+Di Lin, Xiaoyong Shen, Cewu Lu, Jiaya Jia
+62	Unconstrained Realtime Facial Performance Capture [full paper] [ext. abstract]
+Pei-Lun Hsieh, Chongyang Ma, Jihun Yu, Hao Li
+63	Blind Optical Aberration Correction by Exploring Geometric and Visual Priors [full paper] [ext. abstract]
+Tao Yue, Jinli Suo, Jue Wang, Xun Cao, Qionghai Dai
+64	Ontological Supervision for Fine Grained Classification of Street View Storefronts [full paper] [ext. abstract]
+Yair Movshovitz-Attias, Qian Yu, Martin C. Stumpe, Vinay Shet, Sacha Arnoud, Liron Yatziv
+65	Finding Distractors In Images [full paper] [ext. abstract]
+Ohad Fried, Eli Shechtman, Dan B. Goldman, Adam Finkelstein
+66	From Image-Level to Pixel-Level Labeling With Convolutional Networks [full paper] [ext. abstract]
+Pedro O. Pinheiro, Ronan Collobert
+67	Semantic Alignment of LiDAR Data at City Scale [full paper] [ext. abstract]
+Fisher Yu, Jianxiong Xiao, Thomas Funkhouser
+68	Oriented Edge Forests for Boundary Detection [full paper] [ext. abstract]
+Sam Hallman, Charless C. Fowlkes
+69	Query-Adaptive Late Fusion for Image Search and Person Re-Identification [full paper] [ext. abstract]
+Liang Zheng, Shengjin Wang, Lu Tian, Fei He, Ziqiong Liu, Qi Tian
+70	Filtered Feature Channels for Pedestrian Detection [full paper] [ext. abstract]
+Shanshan Zhang, Rodrigo Benenson, Bernt Schiele
+71	GRSA: Generalized Range Swap Algorithm for the Efficient Optimization of MRFs [full paper] [ext. abstract]
+Kangwei Liu, Junge Zhang, Peipei Yang, Kaiqi Huang
+72	PatchCut: Data-Driven Object Segmentation via Local Shape Transfer [full paper] [ext. abstract]
+Jimei Yang, Brian Price, Scott Cohen, Zhe Lin, Ming-Hsuan Yang
+73	Illumination and Reflectance Spectra Separation of a Hyperspectral Image Meets Low-Rank Matrix Factorization [full paper] [ext. abstract]
+Yinqiang Zheng, Imari Sato, Yoichi Sato
+74	Semantic Part Segmentation Using Compositional Model Combining Shape and Appearance [full paper] [ext. abstract]
+Jianyu Wang, Alan L. Yuille
+75	A Discriminative CNN Video Representation for Event Detection [full paper] [ext. abstract]
+Zhongwen Xu, Yi Yang, Alex G. Hauptmann
+76	24/7 Place Recognition by View Synthesis [full paper] [ext. abstract]
+Akihiko Torii, Relja Arandjelović, Josef Sivic, Masatoshi Okutomi, Tomas Pajdla
+77	Understanding Image Virality [full paper] [ext. abstract]
+Arturo Deza, Devi Parikh
+78	Book2Movie: Aligning Video Scenes With Book Chapters [full paper] [ext. abstract]
+Makarand Tapaswi, Martin Bäuml, Rainer Stiefelhagen
+79	3D Model-Based Continuous Emotion Recognition [full paper] [ext. abstract]
+Hui Chen, Jiangdong Li, Fengjun Zhang, Yang Li, Hongan Wang
+80	Learning to Rank in Person Re-Identification With Metric Ensembles [full paper] [ext. abstract]
+Sakrapee Paisitkriangkrai, Chunhua Shen, Anton van den Hengel
+81	Making Better Use of Edges via Perceptual Grouping [full paper] [ext. abstract]
+Yonggang Qi, Yi-Zhe Song, Tao Xiang, Honggang Zhang, Timothy Hospedales, Yi Li, Jun Guo
+82	Real-Time Joint Estimation of Camera Orientation and Vanishing Points [full paper] [ext. abstract]
+Jeong-Kyun Lee, Kuk-Jin Yoon
+83	Sketch-Based 3D Shape Retrieval Using Convolutional Neural Networks [full paper] [ext. abstract]
+Fang Wang, Le Kang, Yi Li
+84	Salient Object Detection via Bootstrap Learning [full paper] [ext. abstract]
+Na Tong, Huchuan Lu, Xiang Ruan, Ming-Hsuan Yang
+85	Towards Open World Recognition [full paper] [ext. abstract]
+Abhijit Bendale, Terrance Boult
+86	Data-Driven 3D Voxel Patterns for Object Category Recognition [full paper] [ext. abstract]
+Yu Xiang, Wongun Choi, Yuanqing Lin, Silvio Savarese
+87	3D ShapeNets: A Deep Representation for Volumetric Shapes [full paper] [ext. abstract]
+Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang, Jianxiong Xiao
+88	Robust Image Alignment With Multiple Feature Descriptors and Matching-Guided Neighborhoods [full paper] [ext. abstract]
+Kuang-Jui Hsu, Yen-Yu Lin, Yung-Yu Chuang
+89	Pushing the Frontiers of Unconstrained Face Detection and Recognition: IARPA Janus Benchmark A [full paper] [ext. abstract]
+Brendan F. Klare, Ben Klein, Emma Taborsky, Austin Blanton, Jordan Cheney, Kristen Allen, Patrick Grother, Alan Mah, Mark Burge, Anil K. Jain
+90	Depth From Shading, Defocus, and Correspondence Using Light-Field Angular Coherence [full paper] [ext. abstract]
+Michael W. Tao, Pratul P. Srinivasan, Jitendra Malik, Szymon Rusinkiewicz, Ravi Ramamoorthi
+91	New Insights Into Laplacian Similarity Search [full paper] [ext. abstract]
+Xiao-Ming Wu, Zhenguo Li, Shih-Fu Chang
+92	Feature-Independent Context Estimation for Automatic Image Annotation [full paper] [ext. abstract]
+Amara Tariq, Hassan Foroosh
+93	Category-Specific Object Reconstruction From a Single Image [full paper] [ext. abstract]
+Abhishek Kar, Shubham Tulsiani, João Carreira, Jitendra Malik
+94	Active Sample Selection and Correction Propagation on a Gradually-Augmented Graph [full paper] [ext. abstract]
+Hang Su, Zhaozheng Yin, Takeo Kanade, Seungil Huh
+95	Efficient and Accurate Approximations of Nonlinear Convolutional Networks [full paper] [ext. abstract]
+Xiangyu Zhang, Jianhua Zou, Xiang Ming, Kaiming He, Jian Sun
+96	Ranking and Retrieval of Image Sequences From Multiple Paragraph Queries [full paper] [ext. abstract]
+Gunhee Kim, Seungwhan Moon, Leonid Sigal
+97	Casual Stereoscopic Panorama Stitching [full paper] [ext. abstract]
+Fan Zhang, Feng Liu
+98	Superpixel Meshes for Fast Edge-Preserving Surface Reconstruction [full paper] [ext. abstract]
+András Bódis-Szomorú, Hayko Riemenschneider, Luc Van Gool
+99	Best-Buddies Similarity for Robust Template Matching [full paper] [ext. abstract]
+Tali Dekel, Shaul Oron, Michael Rubinstein, Shai Avidan, William T. Freeman
+100	Superdifferential Cuts for Binary Energies [full paper] [ext. abstract]
+Tatsunori Taniai, Yasuyuki Matsushita, Takeshi Naemura
+101	The S-Hock Dataset: Analyzing Crowds at the Stadium [full paper] [ext. abstract]
+Davide Conigliaro, Paolo Rota, Francesco Setti, Chiara Bassetti, Nicola Conci, Nicu Sebe, Marco Cristani
+102	Discriminant Analysis on Riemannian Manifold of Gaussian Distributions for Face Recognition With Image Sets [full paper] [ext. abstract]
+Wen Wang, Ruiping Wang, Zhiwu Huang, Shiguang Shan, Xilin Chen
+103	Texture Representations for Image and Video Synthesis [full paper] [ext. abstract]
+Georgios Georgiadis, Alessandro Chiuso, Stefano Soatto
+104	Shadow Optimization From Structured Deep Edge Detection [full paper] [ext. abstract]
+Li Shen, Teck Wee Chua, Karianto Leman
+105	Total Variation Regularization of Shape Signals [full paper] [ext. abstract]
+Maximilian Baust, Laurent Demaret, Martin Storath, Nassir Navab, Andreas Weinmann
+106	Learning Similarity Metrics for Dynamic Scene Segmentation [full paper] [ext. abstract]
+Damien Teney, Matthew Brown, Dmitry Kit, Peter Hall
+107	Subspace Clustering by Mixture of Gaussian Regression [full paper] [ext. abstract]
+Baohua Li, Ying Zhang, Zhouchen Lin, Huchuan Lu
+108	DASC: Dense Adaptive Self-Correlation Descriptor for Multi-Modal and Multi-Spectral Correspondence [full paper] [ext. abstract]
+Seungryong Kim, Dongbo Min, Bumsub Ham, Seungchul Ryu, Minh N. Do, Kwanghoon Sohn
+109	In Defense of Color-Based Model-Free Tracking [full paper] [ext. abstract]
+Horst Possegger, Thomas Mauthner, Horst Bischof
+110	Best of Both Worlds: Human-Machine Collaboration for Object Annotation [full paper] [ext. abstract]
+Olga Russakovsky, Li-Jia Li, Li Fei-Fei
+111	Robust Multiple Homography Estimation: An Ill-Solved Problem [full paper] [ext. abstract]
+Zygmunt L. Szpak, Wojciech Chojnacki, Anton van den Hengel
+112	Semi-Supervised Domain Adaptation With Subspace Learning for Visual Recognition [full paper] [ext. abstract]
+Ting Yao, Yingwei Pan, Chong-Wah Ngo, Houqiang Li, Tao Mei
+113	Articulated Motion Discovery Using Pairs of Trajectories [full paper] [ext. abstract]
+Luca Del Pero, Susanna Ricco, Rahul Sukthankar, Vittorio Ferrari
+114	A Solution for Multi-Alignment by Transformation Synchronisation [full paper] [ext. abstract]
+Florian Bernard, Johan Thunberg, Peter Gemmar, Frank Hertel, Andreas Husch, Jorge Goncalves
+115	A Convex Optimization Approach to Robust Fundamental Matrix Estimation [full paper] [ext. abstract]
+Yongfang Cheng, Jose A. Lopez, Octavia Camps, Mario Sznaier
+116	Simultaneous Pose and Non-Rigid Shape With Particle Dynamics [full paper] [ext. abstract]
+Antonio Agudo, Francesc Moreno-Noguer
+117	Semi-Supervised Learning With Explicit Relationship Regularization [full paper] [ext. abstract]
+Kwang In Kim, James Tompkin, Hanspeter Pfister, Christian Theobalt
+118	Person Re-Identification by Local Maximal Occurrence Representation and Metric Learning [full paper] [ext. abstract]
+Shengcai Liao, Yang Hu, Xiangyu Zhu, Stan Z. Li
+119	Joint Patch and Multi-Label Learning for Facial Action Unit Detection [full paper] [ext. abstract]
+Kaili Zhao, Wen-Sheng Chu, Fernando De la Torre, Jeffrey F. Cohn, Honggang Zhang
+120	Real-Time Visual Analysis of Microvascular Blood Flow for Critical Care [full paper] [ext. abstract]
+Chao Liu, Hernando Gomez, Srinivasa Narasimhan, Artur Dubrawski, Michael R. Pinsky, Brian Zuckerbraun
+1	JOTS: Joint Online Tracking and Segmentation [full paper] [ext. abstract]
+Longyin Wen, Dawei Du, Zhen Lei, Stan Z. Li, Ming-Hsuan Yang
+2	Gaze-Enabled Egocentric Video Summarization via Constrained Submodular Maximization [full paper] [ext. abstract]
+Jia Xu, Lopamudra Mukherjee, Yin Li, Jamieson Warner, James M. Rehg, Vikas Singh
+3	Sparse Depth Super Resolution [full paper] [ext. abstract]
+Jiajun Lu, David Forsyth
+4	Efficient Illuminant Estimation for Color Constancy Using Grey Pixels [full paper] [ext. abstract]
+Kai-Fu Yang, Shao-Bing Gao, Yong-Jie Li
+5	Can Humans Fly? Action Understanding With Multiple Classes of Actors [full paper] [ext. abstract]
+Chenliang Xu, Shao-Hang Hsieh, Caiming Xiong, Jason J. Corso
+6	Reweighted Laplace Prior Based Hyperspectral Compressive Sensing for Unknown Sparsity [full paper] [ext. abstract]
+Lei Zhang, Wei Wei, Yanning Zhang, Chunna Tian, Fei Li
+7	Class Consistent Multi-Modal Fusion With Binary Features [full paper] [ext. abstract]
+Ashish Shrivastava, Mohammad Rastegari, Sumit Shekhar, Rama Chellappa, Larry S. Davis
+8	R6P - Rolling Shutter Absolute Camera Pose [full paper] [ext. abstract]
+Cenek Albl, Zuzana Kukelova, Tomas Pajdla
+9	Embedded Phase Shifting: Robust Phase Shifting With Embedded Signals [full paper] [ext. abstract]
+Daniel Moreno, Kilho Son, Gabriel Taubin
+10	Shape and Light Directions From Shading and Polarization [full paper] [ext. abstract]
+Trung Ngo Thanh, Hajime Nagahara, Rin-ichiro Taniguchi
+11	3D Deep Shape Descriptor [full paper] [ext. abstract]
+Yi Fang, Jin Xie, Guoxian Dai, Meng Wang, Fan Zhu, Tiantian Xu, Edward Wong
+12	Cross-Age Face Verification by Coordinating With Cross-Face Age Verification [full paper] [ext. abstract]
+Liang Du, Haibin Ling
+13	Beyond Mahalanobis Metric: Cayley-Klein Metric Learning [full paper] [ext. abstract]
+Yanhong Bi, Bin Fan, Fuchao Wu
+14	From Dictionary of Visual Words to Subspaces: Locality-Constrained Affine Subspace Coding [full paper] [ext. abstract]
+Peihua Li, Xiaoxiao Lu, Qilong Wang
+15	FPA-CS: Focal Plane Array-Based Compressive Imaging in Short-Wave Infrared [full paper] [ext. abstract]
+Huaijin Chen, M. Salman Asif, Aswin C. Sankaranarayanan, Ashok Veeraraghavan
+16	BOLD - Binary Online Learned Descriptor For Efficient Image Matching [full paper] [ext. abstract]
+Vassileios Balntas, Lilian Tang, Krystian Mikolajczyk
+17	Defocus Deblurring and Superresolution for Time-of-Flight Depth Cameras [full paper] [ext. abstract]
+Lei Xiao, Felix Heide, Matthew O'Toole, Andreas Kolb, Matthias B. Hullin, Kyros Kutulakos, Wolfgang Heidrich
+18	Burst Deblurring: Removing Camera Shake Through Fourier Burst Accumulation [full paper] [ext. abstract]
+Mauricio Delbracio, Guillermo Sapiro
+19	SOM: Semantic Obviousness Metric for Image Quality Assessment [full paper] [ext. abstract]
+Peng Zhang, Wengang Zhou, Lei Wu, Houqiang Li
+20	DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection [full paper] [ext. abstract]
+Wanli Ouyang, Xiaogang Wang, Xingyu Zeng, Shi Qiu, Ping Luo, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Chen-Change Loy, Xiaoou Tang
+21	Efficient Globally Optimal Consensus Maximisation With Tree Search [full paper] [ext. abstract]
+Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
+22	Mind's Eye: A Recurrent Visual Representation for Image Caption Generation [full paper] [ext. abstract]
+Xinlei Chen, C. Lawrence Zitnick
+23	Hierarchical Sparse Coding With Geometric Prior For Visual Geo-Location [full paper] [ext. abstract]
+Raghuraman Gopalan
+24	P3.5P: Pose Estimation With Unknown Focal Length [full paper] [ext. abstract]
+Changchang Wu
+25	Joint Vanishing Point Extraction and Tracking [full paper] [ext. abstract]
+Till Kroeger, Dengxin Dai, Luc Van Gool
+26	Learning a Non-Linear Knowledge Transfer Model for Cross-View Action Recognition [full paper] [ext. abstract]
+Hossein Rahmani, Ajmal Mian
+27	Random Tree Walk Toward Instantaneous 3D Human Pose Estimation [full paper] [ext. abstract]
+Ho Yub Jung, Soochahn Lee, Yong Seok Heo, Il Dong Yun
+28	Deep Hashing for Compact Binary Codes Learning [full paper] [ext. abstract]
+Venice Erin Liong, Jiwen Lu, Gang Wang, Pierre Moulin, Jie Zhou
+29	Completing 3D Object Shape From One Depth Image [full paper] [ext. abstract]
+Jason Rock, Tanmay Gupta, Justin Thorsen, JunYoung Gwak, Daeyun Shin, Derek Hoiem
+30	Encoding Based Saliency Detection for Videos and Images [full paper] [ext. abstract]
+Thomas Mauthner, Horst Possegger, Georg Waltner, Horst Bischof
+31	Online Sketching Hashing [full paper] [ext. abstract]
+Cong Leng, Jiaxiang Wu, Jian Cheng, Xiao Bai, Hanqing Lu
+32	Enriching Object Detection With 2D-3D Registration and Continuous Viewpoint Estimation [full paper] [ext. abstract]
+Christopher Bongsoo Choy, Michael Stark, Sam Corbett-Davies, Silvio Savarese
+33	Representing 3D Texture on Mesh Manifolds for Retrieval and Recognition Applications [full paper] [ext. abstract]
+Naoufel Werghi, Claudio Tortorici, Stefano Berretti, Alberto Del Bimbo
+34	Saliency Propagation From Simple to Difficult [full paper] [ext. abstract]
+Chen Gong, Dacheng Tao, Wei Liu, Stephen J. Maybank, Meng Fang, Keren Fu, Jie Yang
+35	Learning an Efficient Model of Hand Shape Variation From Depth Images [full paper] [ext. abstract]
+Sameh Khamis, Jonathan Taylor, Jamie Shotton, Cem Keskin, Shahram Izadi, Andrew Fitzgibbon
+36	On the Minimal Problems of Low-Rank Matrix Factorization [full paper] [ext. abstract]
+Fangyuan Jiang, Magnus Oskarsson, Kalle Åström
+37	Symmetry-Based Text Line Detection in Natural Scenes [full paper] [ext. abstract]
+Zheng Zhang, Wei Shen, Cong Yao, Xiang Bai
+38	DevNet: A Deep Event Network for Multimedia Event Detection and Evidence Recounting [full paper] [ext. abstract]
+Chuang Gan, Naiyan Wang, Yi Yang, Dit-Yan Yeung, Alex G. Hauptmann
+39	Learning to Detect Motion Boundaries [full paper] [ext. abstract]
+Philippe Weinzaepfel, Jerome Revaud, Zaid Harchaoui, Cordelia Schmid
+40	Improving Object Proposals With Multi-Thresholding Straddling Expansion [full paper] [ext. abstract]
+Xiaozhi Chen, Huimin Ma, Xiang Wang, Zhichen Zhao
+41	Visual Recognition by Counting Instances: A Multi-Instance Cardinality Potential Kernel [full paper] [ext. abstract]
+Hossein Hajimirsadeghi, Wang Yan, Arash Vahdat, Greg Mori
+42	Unconstrained 3D Face Reconstruction [full paper] [ext. abstract]
+Joseph Roth, Yiying Tong, Xiaoming Liu
+43	Becoming the Expert - Interactive Multi-Class Machine Teaching [full paper] [ext. abstract]
+Edward Johns, Oisin Mac Aodha, Gabriel J. Brostow
+44	Long-Term Recurrent Convolutional Networks for Visual Recognition and Description [full paper] [ext. abstract]
+Jeffrey Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell
+45	Zero-Shot Object Recognition by Semantic Manifold Distance [full paper] [ext. abstract]
+Zhenyong Fu, Tao Xiang, Elyor Kodirov, Shaogang Gong
+46	Hyper-Class Augmented and Regularized Deep Learning for Fine-Grained Image Classification [full paper] [ext. abstract]
+Saining Xie, Tianbao Yang, Xiaoyu Wang, Yuanqing Lin
+47	Direct Structure Estimation for 3D Reconstruction [full paper] [ext. abstract]
+Nianjuan Jiang, Daniel Lin, Minh N. Do, Jiangbo Lu
+48	Global Supervised Descent Method [full paper] [ext. abstract]
+Xuehan Xiong, Fernando De la Torre
+49	Robust Camera Location Estimation by Convex Programming [full paper] [ext. abstract]
+Onur Özyesil, Amit Singer
+50	Practical Robust Two-View Translation Estimation [full paper] [ext. abstract]
+Johan Fredriksson, Viktor Larsson, Carl Olsson
+51	Learning From Massive Noisy Labeled Data for Image Classification [full paper] [ext. abstract]
+Tong Xiao, Tian Xia, Yi Yang, Chang Huang, Xiaogang Wang
+52	KL Divergence Based Agglomerative Clustering for Automated Vitiligo Grading [full paper] [ext. abstract]
+Mithun Das Gupta, Srinidhi Srinivasa, Madhukara J., Meryl Antony
+53	Robust Saliency Detection via Regularized Random Walks Ranking [full paper] [ext. abstract]
+Changyang Li, Yuchen Yuan, Weidong, Cai, Yong Xia, David Dagan Feng
+54	Weakly Supervised Semantic Segmentation for Social Images [full paper] [ext. abstract]
+Wei Zhang, Sheng Zeng, Dequan Wang, Xiangyang Xue
+55	Image Specificity [full paper] [ext. abstract]
+Mainak Jas, Devi Parikh
+56	A Multi-Plane Block-Coordinate Frank-Wolfe Algorithm for Training Structural SVMs With a Costly Max-Oracle [full paper] [ext. abstract]
+Neel Shah, Vladimir Kolmogorov, Christoph H. Lampert
+57	Web-Scale Training for Face Identification [full paper] [ext. abstract]
+Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf
+58	Dynamically Encoded Actions Based on Spacetime Saliency [full paper] [ext. abstract]
+Christoph Feichtenhofer, Axel Pinz, Richard P. Wildes
+59	Three Viewpoints Toward Exemplar SVM [full paper] [ext. abstract]
+Takumi Kobayashi
+60	Visual Recognition by Learning From Web Data: A Weakly Supervised Domain Generalization Approach [full paper] [ext. abstract]
+Li Niu, Wen Li, Dong Xu
+61	Clustering of Static-Adaptive Correspondences for Deformable Object Tracking [full paper] [ext. abstract]
+Georg Nebehay, Roman Pflugfelder
+62	Geo-Semantic Segmentation [full paper] [ext. abstract]
+Shervin Ardeshir, Kofi Malcolm Collins-Sibley, Mubarak Shah
+63	Towards Unified Depth and Semantic Prediction From a Single Image [full paper] [ext. abstract]
+Peng Wang, Xiaohui Shen, Zhe Lin, Scott Cohen, Brian Price, Alan L. Yuille
+64	Towards Force Sensing From Vision: Observing Hand-Object Interactions to Infer Manipulation Forces [full paper] [ext. abstract]
+Tu-Hoa Pham, Abderrahmane Kheddar, Ammar Qammaz, Antonis A. Argyros
+65	A MRF Shape Prior for Facade Parsing With Occlusions [full paper] [ext. abstract]
+Mateusz Koziński, Raghudeep Gadde, Sergey Zagoruyko, Guillaume Obozinski, Renaud Marlet
+66	Probability Occupancy Maps for Occluded Depth Images [full paper] [ext. abstract]
+Timur Bagautdinov, François Fleuret, Pascal Fua
+67	Segment Based 3D Object Shape Priors [full paper] [ext. abstract]
+Rabeeh Karimi Mahabadi, Christian Häne, Marc Pollefeys
+68	Shape-From-Template in Flatland [full paper] [ext. abstract]
+Mathias Gallardo, Daniel Pizarro, Adrien Bartoli, Toby Collins
+69	Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition [full paper] [ext. abstract]
+Yixin Zhu, Yibiao Zhao, Song Chun Zhu
+70	Deep Roto-Translation Scattering for Object Classification [full paper] [ext. abstract]
+Edouard Oyallon, Stéphane Mallat
+71	Non-Rigid Registration of Images With Geometric and Photometric Deformation by Using Local Affine Fourier-Moment Matching [full paper] [ext. abstract]
+Hong-Ren Su, Shang-Hong Lai
+72	Detector Discovery in the Wild: Joint Multiple Instance and Representation Learning [full paper] [ext. abstract]
+Judy Hoffman, Deepak Pathak, Trevor Darrell, Kate Saenko
+73	Deeply Learned Face Representations Are Sparse, Selective, and Robust [full paper] [ext. abstract]
+Yi Sun, Xiaogang Wang, Xiaoou Tang
+74	Unsupervised Visual Alignment With Similarity Graphs [full paper] [ext. abstract]
+Fatemeh Shokrollahi Yancheshmeh, Ke Chen, Joni-Kristian Kämäräinen
+75	Video Anomaly Detection and Localization Using Hierarchical Feature Representation and Gaussian Process Regression [full paper] [ext. abstract]
+Kai-Wen Cheng, Yie-Tarng Chen, Wen-Hsien Fang
+76	Inferring 3D Layout of Building Facades From a Single Image [full paper] [ext. abstract]
+Jiyan Pan, Martial Hebert, Takeo Kanade
+77	Evaluation of Output Embeddings for Fine-Grained Image Classification [full paper] [ext. abstract]
+Zeynep Akata, Scott Reed, Daniel Walter, Honglak Lee, Bernt Schiele
+78	Virtual View Networks for Object Reconstruction [full paper] [ext. abstract]
+João Carreira, Abhishek Kar, Shubham Tulsiani, Jitendra Malik
+79	Real-Time Coarse-to-Fine Topologically Preserving Segmentation [full paper] [ext. abstract]
+Jian Yao, Marko Boben, Sanja Fidler, Raquel Urtasun
+80	Supervised Mid-Level Features for Word Image Representation [full paper] [ext. abstract]
+Albert Gordo
+81	Learning Lightness From Human Judgement on Relative Reflectance [full paper] [ext. abstract]
+Takuya Narihira, Michael Maire, Stella X. Yu
+82	Scene Classification With Semantic Fisher Vectors [full paper] [ext. abstract]
+Mandar Dixit, Si Chen, Dashan Gao, Nikhil Rasiwasia, Nuno Vasconcelos
+83	Don't Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks [full paper] [ext. abstract]
+Xiao Lin, Devi Parikh
+84	Co-Saliency Detection via Looking Deep and Wide [full paper] [ext. abstract]
+Dingwen Zhang, Junwei Han, Chao Li, Jingdong Wang
+85	Adopting an Unconstrained Ray Model in Light-Field Cameras for 3D Shape Reconstruction [full paper] [ext. abstract]
+Filippo Bergamasco, Andrea Albarelli, Luca Cosmo, Andrea Torsello, Emanuele Rodolà, Daniel Cremers
+86	Towards 3D Object Detection With Bimodal Deep Boltzmann Machines Over RGBD Imagery [full paper] [ext. abstract]
+Wei Liu, Rongrong Ji, Shaozi Li
+87	An Active Search Strategy for Efficient Object Class Detection [full paper] [ext. abstract]
+Abel Gonzalez-Garcia, Alexander Vezhnevets, Vittorio Ferrari
+88	Geodesic Exponential Kernels: When Curvature and Linearity Conflict [full paper] [ext. abstract]
+Aasa Feragen, François Lauze, Søren Hauberg
+89	Transformation-Invariant Convolutional Jungles [full paper] [ext. abstract]
+Dmitry Laptev, Joachim M. Buhmann
+90	Exemplar SVMs as Visual Feature Encoders [full paper] [ext. abstract]
+Joaquin Zepeda, Patrick Pérez
+91	Object Scene Flow for Autonomous Vehicles [full paper] [ext. abstract]
+Moritz Menze, Andreas Geiger
+92	Reflectance Hashing for Material Recognition [full paper] [ext. abstract]
+Hang Zhang, Kristin Dana, Ko Nishino
+93	Joint Photo Stream and Blog Post Summarization and Exploration [full paper] [ext. abstract]
+Gunhee Kim, Seungwhan Moon, Leonid Sigal
+94	Video Summarization by Learning Submodular Mixtures of Objectives [full paper] [ext. abstract]
+Michael Gygli, Helmut Grabner, Luc Van Gool
+95	Building Proteins in a Day: Efficient 3D Molecular Reconstruction [full paper] [ext. abstract]
+Marcus A. Brubaker, Ali Punjani, David J. Fleet
+96	Learning Descriptors for Object Recognition and 3D Pose Estimation [full paper] [ext. abstract]
+Paul Wohlhart, Vincent Lepetit
+97	Image Partitioning Into Convex Polygons [full paper] [ext. abstract]
+Liuyun Duan, Florent Lafarge
+98	Deep Visual-Semantic Alignments for Generating Image Descriptions [full paper] [ext. abstract]
+Andrej Karpathy, Li Fei-Fei
+99	Unsupervised Learning of Complex Articulated Kinematic Structures Combining Motion and Skeleton Information [full paper] [ext. abstract]
+Hyung Jin Chang, Yiannis Demiris
+100	Elastic Functional Coding of Human Actions: From Vector-Fields to Latent Variables [full paper] [ext. abstract]
+Rushil Anirudh, Pavan Turaga, Jingyong Su, Anuj Srivastava
+101	Show and Tell: A Neural Image Caption Generator [full paper] [ext. abstract]
+Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan
+102	Descriptor Free Visual Indoor Localization With Line Segments [full paper] [ext. abstract]
+Branislav Micusik, Horst Wildenauer
+103	Fixation Bank: Learning to Reweight Fixation Candidates [full paper] [ext. abstract]
+Jiaping Zhao, Christian Siagian, Laurent Itti
+104	Deep Networks for Saliency Detection via Local Estimation and Global Search [full paper] [ext. abstract]
+Lijun Wang, Huchuan Lu, Xiang Ruan, Ming-Hsuan Yang
+105	Reflection Removal Using Ghosting Cues [full paper] [ext. abstract]
+YiChang Shih, Dilip Krishnan, Frédo Durand, William T. Freeman
+106	A Dataset for Movie Description [full paper] [ext. abstract]
+Anna Rohrbach, Marcus Rohrbach, Niket Tandon, Bernt Schiele
+107	Fast and Robust Hand Tracking Using Detection-Guided Optimization [full paper] [ext. abstract]
+Srinath Sridhar, Franziska Mueller, Antti Oulasvirta, Christian Theobalt
+108	Efficient SDP Inference for Fully-Connected CRFs Based on Low-Rank Decomposition [full paper] [ext. abstract]
+Peng Wang, Chunhua Shen, Anton van den Hengel
+109	Discriminative Learning of Iteration-Wise Priors for Blind Deconvolution [full paper] [ext. abstract]
+Wangmeng Zuo, Dongwei Ren, Shuhang Gu, Liang Lin, Lei Zhang
+110	Eye Tracking Assisted Extraction of Attentionally Important Objects From Videos [full paper] [ext. abstract]
+Karthikeyan Shanmuga Vadivel, Thuyen Ngo, Miguel Eckstein, B.S. Manjunath
+111	Multi-View Feature Engineering and Learning [full paper] [ext. abstract]
+Jingming Dong, Nikolaos Karianakis, Damek Davis, Joshua Hernandez, Jonathan Balzer, Stefano Soatto
+112	Self Scaled Regularized Robust Regression [full paper] [ext. abstract]
+Yin Wang, Caglayan Dicle, Mario Sznaier, Octavia Camps
+113	Simultaneous Feature Learning and Hash Coding With Deep Neural Networks [full paper] [ext. abstract]
+Hanjiang Lai, Yan Pan, Ye Liu, Shuicheng Yan
+114	MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching [full paper] [ext. abstract]
+Xufeng Han, Thomas Leung, Yangqing Jia, Rahul Sukthankar, Alexander C. Berg
+115	Reconstructing the World* in Six Days *(As Captured by the Yahoo 100 Million Image Dataset) [full paper] [ext. abstract]
+Jared Heinly, Johannes L. Schönberger, Enrique Dunn, Jan-Michael Frahm
+116	Exact Bias Correction and Covariance Estimation for Stereo Vision [full paper] [ext. abstract]
+Charles Freundlich, Michael Zavlanos, Philippos Mordohai
+117	Computing Similarity Transformations From Only Image Correspondences [full paper] [ext. abstract]
+Chris Sweeney, Laurent Kneip, Tobias Höllerer, Matthew Turk
+118	Image Segmentation in Twenty Questions [full paper] [ext. abstract]
+Christian Rupprecht, Loïc Peter, Nassir Navab
+119	Interaction Part Mining: A Mid-Level Approach for Fine-Grained Action Recognition [full paper] [ext. abstract]
+Yang Zhou, Bingbing Ni, Richang Hong, Meng Wang, Qi Tian
+120	Sparse Projections for High-Dimensional Binary Codes [full paper] [ext. abstract]
+Yan Xia, Kaiming He, Pushmeet Kohli, Jian Sun
+1	Hierarchically-Constrained Optical Flow [full paper] [ext. abstract]
+Ryan Kennedy, Camillo J. Taylor
+2	The k-Support Norm and Convex Envelopes of Cardinality and Rank [full paper] [ext. abstract]
+Anders Eriksson, Trung Thanh Pham, Tat-Jun Chin, Ian Reid
+3	Matching Bags of Regions in RGBD images [full paper] [ext. abstract]
+Hao Jiang
+4	Recurrent Convolutional Neural Network for Object Recognition [full paper] [ext. abstract]
+Ming Liang, Xiaolin Hu
+5	Feedforward Semantic Segmentation With Zoom-Out Features [full paper] [ext. abstract]
+Mohammadreza Mostajabi, Payman Yadollahpour, Gregory Shakhnarovich
+6	The Aperture Problem for Refractive Motion [full paper] [ext. abstract]
+Tianfan Xue, Hossein Mobahi, Frédo Durand, William T. Freeman
+7	Saliency-Aware Geodesic Video Object Segmentation [full paper] [ext. abstract]
+Wenguan Wang, Jianbing Shen, Fatih Porikli
+8	DEEP-CARVING: Discovering Visual Attributes by Carving Deep Neural Nets [full paper] [ext. abstract]
+Sukrit Shankar, Vikas K. Garg, Roberto Cipolla
+9	Rent3D: Floor-Plan Priors for Monocular Layout Estimation [full paper] [ext. abstract]
+Chenxi Liu, Alexander G. Schwing, Kaustav Kundu, Raquel Urtasun, Sanja Fidler
+10	Learning a Sequential Search for Landmarks [full paper] [ext. abstract]
+Saurabh Singh, Derek Hoiem, David Forsyth
+11	Fully Convolutional Networks for Semantic Segmentation [full paper] [ext. abstract]
+Jonathan Long, Evan Shelhamer, Trevor Darrell
+12	Deep Correlation for Matching Images and Text [full paper] [ext. abstract]
+Fei Yan, Krystian Mikolajczyk
+13	Multi-Objective Convolutional Learning for Face Labeling [full paper] [ext. abstract]
+Sifei Liu, Jimei Yang, Chang Huang, Ming-Hsuan Yang
+14	Deep Multiple Instance Learning for Image Classification and Auto-Annotation [full paper] [ext. abstract]
+Jiajun Wu, Yinan Yu, Chang Huang, Kai Yu
+15	Multi-Instance Object Segmentation With Occlusion Handling [full paper] [ext. abstract]
+Yi-Ting Chen, Xiaokai Liu, Ming-Hsuan Yang
+16	Material Recognition in the Wild With the Materials in Context Database [full paper] [ext. abstract]
+Sean Bell, Paul Upchurch, Noah Snavely, Kavita Bala
+17	Understanding Pedestrian Behaviors From Stationary Crowd Groups [full paper] [ext. abstract]
+Shuai Yi, Hongsheng Li, Xiaogang Wang
+18	Depth From Focus With Your Mobile Phone [full paper] [ext. abstract]
+Supasorn Suwajanakorn, Carlos Hernandez, Steven M. Seitz
+19	Fusion Moves for Correlation Clustering [full paper] [ext. abstract]
+Thorsten Beier, Fred A. Hamprecht, Jörg H. Kappes
+20	Second-Order Constrained Parametric Proposals and Sequential Search-Based Structured Prediction for Semantic Segmentation in RGB-D Images [full paper] [ext. abstract]
+Dan Banica, Cristian Sminchisescu
+21	Metric Imitation by Manifold Transfer for Efficient Vision Applications [full paper] [ext. abstract]
+Dengxin Dai, Till Kroeger, Radu Timofte, Luc Van Gool
+22	The Stitched Puppet: A Graphical Model of 3D Human Shape and Pose [full paper] [ext. abstract]
+Silvia Zuffi, Michael J. Black
+23	Scene Labeling With LSTM Recurrent Neural Networks [full paper] [ext. abstract]
+Wonmin Byeon, Thomas M. Breuel, Federico Raue, Marcus Liwicki
+24	FAemb: A Function Approximation-Based Embedding Method for Image Retrieval [full paper] [ext. abstract]
+Thanh-Toan Do, Quang D. Tran, Ngai-Man Cheung
+25	Automatically Discovering Local Visual Material Attributes [full paper] [ext. abstract]
+Gabriel Schwartz, Ko Nishino
+26	Depth Image Enhancement Using Local Tangent Plane Approximations [full paper] [ext. abstract]
+Kiyoshi Matsuo, Yoshimitsu Aoki
+27	Video Co-Summarization: Video Summarization by Visual Co-Occurrence [full paper] [ext. abstract]
+Wen-Sheng Chu, Yale Song, Alejandro Jaimes
+28	Watch and Learn: Semi-Supervised Learning for Object Detectors From Video [full paper] [ext. abstract]
+Ishan Misra, Abhinav Shrivastava, Martial Hebert
+29	Generalized Tensor Total Variation Minimization for Visual Data Recovery [full paper] [ext. abstract]
+Xiaojie Guo, Yi Ma
+30	Active Learning for Structured Probabilistic Models With Histogram Approximation [full paper] [ext. abstract]
+Qing Sun, Ankit Laddha, Dhruv Batra
+31	Image Parsing With a Wide Range of Classes and Scene-Level Context [full paper] [ext. abstract]
+Marian George
+32	Bayesian Sparse Representation for Hyperspectral Image Super Resolution [full paper] [ext. abstract]
+Naveed Akhtar, Faisal Shafait, Ajmal Mian
+33	Semantic Object Segmentation via Detection in Weakly Labeled Video [full paper] [ext. abstract]
+Yu Zhang, Xiaowu Chen, Jia Li, Chen Wang, Changqun Xia
+34	Learning With Dataset Bias in Latent Subcategory Models [full paper] [ext. abstract]
+Dimitris Stamos, Samuele Martelli, Moin Nabi, Andrew McDonald, Vittorio Murino, Massimiliano Pontil
+35	Project-Out Cascaded Regression With an Application to Face Alignment [full paper] [ext. abstract]
+Georgios Tzimiropoulos
+36	Image Retrieval Using Scene Graphs [full paper] [ext. abstract]
+Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David Shamma, Michael Bernstein, Li Fei-Fei
+37	Unifying Holistic and Parts-Based Deformable Model Fitting [full paper] [ext. abstract]
+Joan Alabort-i-Medina, Stefanos Zafeiriou
+38	Small Instance Detection by Integer Programming on Object Density Maps [full paper] [ext. abstract]
+Zheng Ma, Lei Yu, Antoni B. Chan
+39	Motion Part Regularization: Improving Action Recognition via Trajectory Selection [full paper] [ext. abstract]
+Bingbing Ni, Pierre Moulin, Xiaokang Yang, Shuicheng Yan
+40	Multi-Task Deep Visual-Semantic Embedding for Video Thumbnail Selection [full paper] [ext. abstract]
+Wu Liu, Tao Mei, Yongdong Zhang, Cherry Che, Jiebo Luo
+41	Fine-Grained Visual Categorization via Multi-Stage Metric Learning [full paper] [ext. abstract]
+Qi Qian, Rong Jin, Shenghuo Zhu, Yuanqing Lin
+42	Saturation-Preserving Specular Reflection Separation [full paper] [ext. abstract]
+Yuanliu Liu, Zejian Yuan, Nanning Zheng, Yang Wu
+43	Joint SFM and Detection Cues for Monocular 3D Localization in Road Scenes [full paper] [ext. abstract]
+Shiyu Song, Manmohan Chandraker
+44	Fisher Vectors Meet Neural Networks: A Hybrid Classification Architecture [full paper] [ext. abstract]
+Florent Perronnin, Diane Larlus
+45	UniHIST: A Unified Framework for Image Restoration With Marginal Histogram Constraints [full paper] [ext. abstract]
+Xing Mei, Weiming Dong, Bao-Gang Hu, Siwei Lyu
+46	Human Action Segmentation With Hierarchical Supervoxel Consistency [full paper] [ext. abstract]
+Jiasen Lu, ran Xu , Jason J. Corso
+47	Robust Manhattan Frame Estimation From a Single RGB-D Image [full paper] [ext. abstract]
+Bernard Ghanem, Ali Thabet, Juan Carlos Niebles, Fabian Caba Heilbron
+48	Learning to Segment Under Various Forms of Weak Supervision [full paper] [ext. abstract]
+Jia Xu, Alexander G. Schwing, Raquel Urtasun
+49	Fast and Accurate Image Upscaling With Super-Resolution Forests [full paper] [ext. abstract]
+Samuel Schulter, Christian Leistner, Horst Bischof
+50	Light Field From Micro-Baseline Image Pair [full paper] [ext. abstract]
+Zhoutong Zhang, Yebin Liu, Qionghai Dai
+51	Efficient ConvNet-Based Marker-Less Motion Capture in General Scenes With a Low Number of Cameras [full paper] [ext. abstract]
+Ahmed Elhayek, Edilson de Aguiar, Arjun Jain, Jonathan Tompson, Leonid Pishchulin, Micha Andriluka, Chris Bregler, Bernt Schiele, Christian Theobalt
+52	Learning Scene-Specific Pedestrian Detectors Without Real Data [full paper] [ext. abstract]
+Hironori Hattori, Vishnu Naresh Boddeti, Kris M. Kitani, Takeo Kanade
+53	Deep Filter Banks for Texture Recognition and Segmentation [full paper] [ext. abstract]
+Mircea Cimpoi, Subhransu Maji, Andrea Vedaldi
+54	Multiple Random Walkers and Their Application to Image Cosegmentation [full paper] [ext. abstract]
+Chulwoo Lee, Won-Dong Jang, Jae-Young Sim, Chang-Su Kim
+55	Beyond the Shortest Path : Unsupervised Domain Adaptation by Sampling Subspaces Along the Spline Flow [full paper] [ext. abstract]
+Rui Caseiro, João F. Henriques, Pedro Martins, Jorge Batista
+56	Spherical Embedding of Inlier Silhouette Dissimilarities [full paper] [ext. abstract]
+Etai Littwin, Hadar Averbuch-Elor, Daniel Cohen-Or
+57	Semantics-Preserving Hashing for Cross-View Retrieval [full paper] [ext. abstract]
+Zijia Lin, Guiguang Ding, Mingqing Hu, Jianmin Wang
+58	Object Proposal by Multi-Branch Hierarchical Segmentation [full paper] [ext. abstract]
+Chaoyang Wang, Long Zhao, Shuang Liang, Liqing Zhang, Jinyuan Jia, Yichen Wei
+59	Ambient Occlusion via Compressive Visibility Estimation [full paper] [ext. abstract]
+Wei Yang, Yu Ji, Haiting Lin, Yang Yang, Sing Bing Kang, Jingyi Yu
+60	Shape-Tailored Local Descriptors and Their Application to Segmentation and Tracking [full paper] [ext. abstract]
+Naeemullah Khan, Marei Algarni, Anthony Yezzi, Ganesh Sundaramoorthi
+61	Scalable Object Detection by Filter Compression With Regularized Sparse Coding [full paper] [ext. abstract]
+Ting-Hsuan Chao, Yen-Liang Lin, Yin-Hsi Kuo, Winston H. Hsu
+62	An Improved Deep Learning Architecture for Person Re-Identification [full paper] [ext. abstract]
+Ejaz Ahmed, Michael Jones, Tim K. Marks
+63	Understanding Classifier Errors by Examining Influential Neighbors [full paper] [ext. abstract]
+Mayank Kabra, Alice Robie, Kristin Branson
+64	Riemannian Coding and Dictionary Learning: Kernels to the Rescue [full paper] [ext. abstract]
+Mehrtash Harandi, Mathieu Salzmann
+65	Scalable Structure From Motion for Densely Sampled Videos [full paper] [ext. abstract]
+Benjamin Resch, Hendrik P. A. Lensch, Oliver Wang, Marc Pollefeys, Alexander Sorkine-Hornung
+66	Parsing Occluded People by Flexible Compositions [full paper] [ext. abstract]
+Xianjie Chen, Alan L. Yuille
+67	Joint Calibration of Ensemble of Exemplar SVMs [full paper] [ext. abstract]
+Davide Modolo, Alexander Vezhnevets, Olga Russakovsky, Vittorio Ferrari
+68	Holistic 3D Scene Understanding From a Single Geo-Tagged Image [full paper] [ext. abstract]
+Shenlong Wang, Sanja Fidler, Raquel Urtasun
+69	A Large-Scale Car Dataset for Fine-Grained Categorization and Verification [full paper] [ext. abstract]
+Linjie Yang, Ping Luo, Chen Change Loy, Xiaoou Tang
+70	DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection [full paper] [ext. abstract]
+Wei Shen, Xinggang Wang, Yan Wang, Xiang Bai, Zhijiang Zhang
+71	Convolutional Feature Masking for Joint Object and Stuff Segmentation [full paper] [ext. abstract]
+Jifeng Dai, Kaiming He, Jian Sun
+72	A Fixed Viewpoint Approach for Dense Reconstruction of Transparent Objects [full paper] [ext. abstract]
+Kai Han, Kwan-Yee K. Wong, Miaomiao Liu
+73	Low-Level Vision by Consensus in a Spatial Hierarchy of Regions [full paper] [ext. abstract]
+Ayan Chakrabarti, Ying Xiong, Steven J. Gortler, Todd Zickler
+74	Line Drawing Interpretation in a Multi-View Context [full paper] [ext. abstract]
+Jean-Dominique Favreau, Florent Lafarge, Adrien Bousseau
+75	Toward User-Specific Tracking by Detection of Human Shapes in Multi-Cameras [full paper] [ext. abstract]
+Chun-Hao Huang, Edmond Boyer, Bibiana do Canto Angonese, Nassir Navab, Slobodan Ilic
+76	Intra-Frame Deblurring by Leveraging Inter-Frame Camera Motion [full paper] [ext. abstract]
+Haichao Zhang, Jianchao Yang
+77	Salient Object Subitizing [full paper] [ext. abstract]
+Jianming Zhang, Shugao Ma, Mehrnoosh Sameki, Stan Sclaroff, Margrit Betke, Zhe Lin, Xiaohui Shen, Brian Price, Radomír Mĕch
+78	Hierarchical-PEP Model for Real-World Face Recognition [full paper] [ext. abstract]
+Haoxiang Li, Gang Hua
+79	The Common Self-Polar Triangle of Concentric Circles and Its Application to Camera Calibration [full paper] [ext. abstract]
+Haifei Huang, Hui Zhang, Yiu-ming Cheung
+80	Taking a Deeper Look at Pedestrians [full paper] [ext. abstract]
+Jan Hosang, Mohamed Omran, Rodrigo Benenson, Bernt Schiele
+81	Learning to Segment Moving Objects in Videos [full paper] [ext. abstract]
+Katerina Fragkiadaki, Pablo Arbeláez, Panna Felsen, Jitendra Malik
+82	GMMCP Tracker: Globally Optimal Generalized Maximum Multi Clique Problem for Multiple Object Tracking [full paper] [ext. abstract]
+Afshin Dehghan, Shayan Modiri Assari, Mubarak Shah
+83	Learning Graph Structure for Multi-Label Image Classification via Clique Generation [full paper] [ext. abstract]
+Mingkui Tan, Qinfeng Shi, Anton van den Hengel, Chunhua Shen, Junbin Gao, Fuyuan Hu, Zhen Zhang
+84	Matrix Completion for Resolving Label Ambiguity [full paper] [ext. abstract]
+Ching-Hui Chen, Vishal M. Patel, Rama Chellappa
+85	Video Magnification in Presence of Large Motions [full paper] [ext. abstract]
+Mohamed Elgharib, Mohamed Hefeeda, Frédo Durand, William T. Freeman
+86	Flying Objects Detection From a Single Moving Camera [full paper] [ext. abstract]
+Artem Rozantsev, Vincent Lepetit, Pascal Fua
+87	Line-Based Multi-Label Energy Optimization for Fisheye Image Rectification and Calibration [full paper] [ext. abstract]
+Mi Zhang, Jian Yao, Menghan Xia, Kai Li, Yi Zhang, Yaping Liu
+88	Adaptive Eye-Camera Calibration for Head-Worn Devices [full paper] [ext. abstract]
+David Perra, Rohit Kumar Gupta, Jan-Michael Frahm
+89	Modeling Object Appearance Using Context-Conditioned Component Analysis [full paper] [ext. abstract]
+Daniyar Turmukhambetov, Neill D.F. Campbell, Simon J.D. Prince, Jan Kautz
+90	Displets: Resolving Stereo Ambiguities Using Object Knowledge [full paper] [ext. abstract]
+Fatma Güney, Andreas Geiger
+91	Time-to-Contact From Image Intensity [full paper] [ext. abstract]
+Yukitoshi Watanabe, Fumihiko Sakaue, Jun Sato
+92	Transferring a Semantic Representation for Person Re-Identification and Search [full paper] [ext. abstract]
+Zhiyuan Shi, Timothy M. Hospedales, Tao Xiang
+93	Robust Video Segment Proposals With Painless Occlusion Handling [full paper] [ext. abstract]
+Zhengyang Wu, Fuxin Li, Rahul Sukthankar, James M. Rehg
+94	Face Alignment Using Cascade Gaussian Process Regression Trees [full paper] [ext. abstract]
+Donghoon Lee, Hyunsin Park, Chang D. Yoo
+95	Regularizing Max-Margin Exemplars by Reconstruction and Generative Models [full paper] [ext. abstract]
+Jose C. Rubio, Björn Ommer
+96	A Fast Algorithm for Elastic Shape Distances Between Closed Planar Curves [full paper] [ext. abstract]
+Günay Doğan, Javier Bernal, Charles R. Hagwood
+97	Reflection Removal for In-Vehicle Black Box Videos [full paper] [ext. abstract]
+Christian Simon, In Kyu Park
+98	Tree Quantization for Large-Scale Similarity Search and Classification [full paper] [ext. abstract]
+Artem Babenko, Victor Lempitsky
+99	Integrating Parametric and Non-Parametric Models For Scene Labeling [full paper] [ext. abstract]
+Bing Shuai, Gang Wang, Zhen Zuo, Bing Wang, Lifan Zhao
+100	Mining Semantic Affordances of Visual Object Categories [full paper] [ext. abstract]
+Yu-Wei Chao, Zhan Wang, Rada Mihalcea, Jia Deng
+101	Causal Video Object Segmentation From Persistence of Occlusions [full paper] [ext. abstract]
+Brian Taylor, Vasiliy Karasev, Stefano Soatto
+102	Multiple Instance Learning for Soft Bags via Top Instances [full paper] [ext. abstract]
+Weixin Li, Nuno Vasconcelos
+103	Multiclass Semantic Video Segmentation With Object-Level Active Inference [full paper] [ext. abstract]
+Buyu Liu, Xuming He
+104	Effective Face Frontalization in Unconstrained Images [full paper] [ext. abstract]
+Tal Hassner, Shai Harel, Eran Paz, Roee Enbar
+105	Action Recognition With Trajectory-Pooled Deep-Convolutional Descriptors [full paper] [ext. abstract]
+Limin Wang, Yu Qiao, Xiaoou Tang
+106	Weakly Supervised Localization of Novel Objects Using Appearance Transfer [full paper] [ext. abstract]
+Mrigank Rochan, Yang Wang
+107	First-Person Pose Recognition Using Egocentric Workspaces [full paper] [ext. abstract]
+Grégory Rogez, James S. Supančič III, Deva Ramanan
+108	Simultaneous Time-of-Flight Sensing and Photometric Stereo With a Single ToF Sensor [full paper] [ext. abstract]
+Changpeng Ti, Ruigang Yang, James Davis, Zhigeng Pan
+109	Active Learning and Discovery of Object Categories in the Presence of Unnameable Instances [full paper] [ext. abstract]
+Christoph Käding, Alexander Freytag, Erik Rodner, Paul Bodesheim, Joachim Denzler
+110	Learning to Compare Image Patches via Convolutional Neural Networks [full paper] [ext. abstract]
+Sergey Zagoruyko, Nikos Komodakis
+111	Watch-n-Patch: Unsupervised Understanding of Actions and Relations [full paper] [ext. abstract]
+Chenxia Wu, Jiemi Zhang, Silvio Savarese, Ashutosh Saxena
+112	Optimal Graph Learning With Partial Tags and Multiple Features for Image and Video Annotation [full paper] [ext. abstract]
+Lianli Gao, Jingkuan Song, Feiping Nie, Yan Yan, Nicu Sebe, Heng Tao Shen
+113	DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection [full paper] [ext. abstract]
+Gedas Bertasius, Jianbo Shi, Lorenzo Torresani
+114	Picture: A Probabilistic Programming Language for Scene Perception [full paper] [ext. abstract]
+Tejas D. Kulkarni, Pushmeet Kohli, Joshua B. Tenenbaum, Vikash Mansinghka
+115	Exploiting Uncertainty in Regression Forests for Accurate Camera Relocalization [full paper] [ext. abstract]
+Julien Valentin, Matthias Nießner, Jamie Shotton, Andrew Fitzgibbon, Shahram Izadi, Philip H. S. Torr
+116	Fusing Subcategory Probabilities for Texture Classification [full paper] [ext. abstract]
+Yang Song, Weidong Cai, Qing Li, Fan Zhang, David Dagan Feng, Heng Huang
+117	Video Event Recognition With Deep Hierarchical Context Model [full paper] [ext. abstract]
+Xiaoyang Wang, Qiang Ji
+118	Object-Based RGBD Image Co-Segmentation With Mutex Constraint [full paper] [ext. abstract]
+Huazhu Fu, Dong Xu, Stephen Lin, Jiang Liu
+119	Associating Neural Word Embeddings With Deep Image Representations Using Fisher Vectors [full paper] [ext. abstract]
+Benjamin Klein, Guy Lev, Gil Sadeh, Lior Wolf
+120	3D Shape Estimation From 2D Landmarks: A Convex Relaxation Approach [full paper] [ext. abstract]
+Xiaowei Zhou, Spyridon Leonardos, Xiaoyan Hu, Kostas Daniilidis
+1	3D All The Way: Semantic Segmentation of Urban Scenes From Start to End in 3D [full paper] [ext. abstract]
+Andelo Martinović, Jan Knopp, Hayko Riemenschneider, Luc Van Gool
+2	Fast Bilateral-Space Stereo for Synthetic Defocus [full paper] [ext. abstract]
+Jonathan T. Barron, Andrew Adams, YiChang Shih, Carlos Hernández
+3	Large-Scale and Drift-Free Surface Reconstruction Using Online Subvolume Registration [full paper] [ext. abstract]
+Nicola Fioraio, Jonathan Taylor, Andrew Fitzgibbon, Luigi Di Stefano, Shahram Izadi
+4	Fast Randomized Singular Value Thresholding for Nuclear Norm Minimization [full paper] [ext. abstract]
+Tae-Hyun Oh, Yasuyuki Matsushita, Yu-Wing Tai, In So Kweon
+5	LMI-Based 2D-3D Registration: From Uncalibrated Images to Euclidean Scene [full paper] [ext. abstract]
+Danda Pani Paudel, Adlane Habed, Cédric Demonceaux, Pascal Vasseur
+6	Clique-Graph Matching by Preserving Global & Local Structure [full paper] [ext. abstract]
+Wei-Zhi Nie, An-An Liu, Zan Gao, Yu-Ting Su
+7	Appearance-Based Gaze Estimation in the Wild [full paper] [ext. abstract]
+Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling
+8	One-Day Outdoor Photometric Stereo via Skylight Estimation [full paper] [ext. abstract]
+Jiyoung Jung, Joon-Young Lee, In So Kweon
+9	A New Retraction for Accelerating the Riemannian Three-Factor Low-Rank Matrix Completion Algorithm [full paper] [ext. abstract]
+Zhizhong Li, Deli Zhao, Zhouchen Lin, Edward Y. Chang
+10	Heteroscedastic Max-Min Distance Analysis [full paper] [ext. abstract]
+Bing Su, Xiaoqing Ding, Changsong Liu, Ying Wu
+11	Sparse Composite Quantization [full paper] [ext. abstract]
+Ting Zhang, Guo-Jun Qi, Jinhui Tang, Jingdong Wang
+12	Sparse Representation Classification With Manifold Constraints Transfer [full paper] [ext. abstract]
+Baochang Zhang, Alessandro Perina, Vittorio Murino, Alessio Del Bue
+13	CIDEr: Consensus-Based Image Description Evaluation [full paper] [ext. abstract]
+Ramakrishna Vedantam, C. Lawrence Zitnick, Devi Parikh
+14	Joint Inference of Groups, Events and Human Roles in Aerial Videos [full paper] [ext. abstract]
+Tianmin Shu, Dan Xie, Brandon Rothrock, Sinisa Todorovic, Song Chun Zhu
+15	Photometric Stereo With Near Point Lighting: A Solution by Mesh Deformation [full paper] [ext. abstract]
+Wuyuan Xie, Chengkai Dai, Charlie C. L. Wang
+16	Efficient Label Collection for Unlabeled Image Datasets [full paper] [ext. abstract]
+Maggie Wigness, Bruce A. Draper, J. Ross Beveridge
+17	Separating Objects and Clutter in Indoor Scenes [full paper] [ext. abstract]
+Salman H. Khan, Xuming He, Mohammed Bennamoun, Ferdous Sohel, Roberto Togneri
+18	FaLRR: A Fast Low Rank Representation Solver [full paper] [ext. abstract]
+Shijie Xiao, Wen Li, Dong Xu, Dacheng Tao
+19	Simulating Makeup Through Physics-Based Manipulation of Intrinsic Image Layers [full paper] [ext. abstract]
+Chen Li, Kun Zhou, Stephen Lin
+20	Correlation Filters With Limited Boundaries [full paper] [ext. abstract]
+Hamed Kiani Galoogahi, Terence Sim, Simon Lucey
+21	Shape-Based Automatic Detection of a Large Number of 3D Facial Landmarks [full paper] [ext. abstract]
+Syed Zulqarnain Gilani, Faisal Shafait, Ajmal Mian
+22	Material Classification With Thermal Imagery [full paper] [ext. abstract]
+Philip Saponaro, Scott Sorensen, Abhishek Kolagunda, Chandra Kambhamettu
+23	Deeply Learned Attributes for Crowded Scene Understanding [full paper] [ext. abstract]
+Jing Shao, Kai Kang, Chen Change Loy, Xiaogang Wang
+24	Learning To Look Up: Realtime Monocular Gaze Correction Using Machine Learning [full paper] [ext. abstract]
+Daniil Kononenko, Victor Lempitsky
+25	Background Subtraction via Generalized Fused Lasso Foreground Modeling [full paper] [ext. abstract]
+Bo Xin, Yuan Tian, Yizhou Wang, Wen Gao
+26	Mirror, Mirror on the Wall, Tell Me, Is the Error Small? [full paper] [ext. abstract]
+Heng Yang, Ioannis Patras
+27	Beyond Short Snippets: Deep Networks for Video Classification [full paper] [ext. abstract]
+Joe Yue-Hei Ng, Matthew Hausknecht, Sudheendra Vijayanarasimhan, Oriol Vinyals, Rajat Monga, George Toderici
+28	segDeepM: Exploiting Segmentation and Context in Deep Neural Networks for Object Detection [full paper] [ext. abstract]
+Yukun Zhu, Raquel Urtasun, Ruslan Salakhutdinov, Sanja Fidler
+29	Situational Object Boundary Detection [full paper] [ext. abstract]
+Jasper R. R. Uijlings, Vittorio Ferrari
+30	Real-Time 3D Head Pose and Facial Landmark Estimation From Depth Images Using Triangular Surface Patch Features [full paper] [ext. abstract]
+Chavdar Papazov, Tim K. Marks, Michael Jones
+31	Aligning 3D Models to RGB-D Images of Cluttered Scenes [full paper] [ext. abstract]
+Saurabh Gupta, Pablo Arbeláez, Ross Girshick, Jitendra Malik
+32	A Stable Multi-Scale Kernel for Topological Machine Learning [full paper] [ext. abstract]
+Jan Reininghaus, Stefan Huber, Ulrich Bauer, Roland Kwitt
+33	The Treasure Beneath Convolutional Layers: Cross-Convolutional-Layer Pooling for Image Classification [full paper] [ext. abstract]
+Lingqiao Liu, Chunhua Shen, Anton van den Hengel
+34	Face Video Retrieval With Image Query via Hashing Across Euclidean Space and Riemannian Manifold [full paper] [ext. abstract]
+Yan Li, Ruiping Wang, Zhiwu Huang, Shiguang Shan, Xilin Chen
+35	EgoSampling: Fast-Forward and Stereo for Egocentric Videos [full paper] [ext. abstract]
+Yair Poleg, Tavi Halperin, Chetan Arora, Shmuel Peleg
+36	Social Saliency Prediction [full paper] [ext. abstract]
+Hyun Soo Park, Jianbo Shi
+37	Beyond Principal Components: Deep Boltzmann Machines for Face Modeling [full paper] [ext. abstract]
+Chi Nhan Duong, Khoa Luu, Kha Gia Quach, Tien D. Bui
+38	Statistical Inference Models for Image Datasets With Systematic Variations [full paper] [ext. abstract]
+Won Hwa Kim, Barbara B. Bendlin, Moo K. Chung, Sterling C. Johnson, Vikas Singh
+39	Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues [full paper] [ext. abstract]
+Ning Zhang, Manohar Paluri, Yaniv Taigman, Rob Fergus, Lubomir Bourdev
+40	Superpixel-Based Video Object Segmentation Using Perceptual Organization and Location Prior [full paper] [ext. abstract]
+Daniela Giordano, Francesca Murabito, Simone Palazzo, Concetto Spampinato
+41	Robust Image Filtering Using Joint Static and Dynamic Guidance [full paper] [ext. abstract]
+Bumsub Ham, Minsu Cho, Jean Ponce
+42	Solving Multiple Square Jigsaw Puzzles With Missing Pieces [full paper] [ext. abstract]
+Genady Paikin, Ayellet Tal
+43	A Dynamic Convolutional Layer for Short Range Weather Prediction [full paper] [ext. abstract]
+Benjamin Klein, Lior Wolf, Yehuda Afek
+44	SWIFT: Sparse Withdrawal of Inliers in a First Trial [full paper] [ext. abstract]
+Maryam Jaberi, Marianna Pensky, Hassan Foroosh
+45	VIP: Finding Important People in Images [full paper] [ext. abstract]
+Clint Solomon Mathialagan, Andrew C. Gallagher, Dhruv Batra
+46	Dataset Fingerprints: Exploring Image Collections Through Data Mining [full paper] [ext. abstract]
+Konstantinos Rematas, Basura Fernando, Frank Dellaert, Tinne Tuytelaars
+47	Transport-Based Single Frame Super Resolution of Very Low Resolution Face Images [full paper] [ext. abstract]
+Soheil Kolouri, Gustavo K. Rohde
+48	3D Reconstruction in the Presence of Glasses by Acoustic and Stereo Fusion [full paper] [ext. abstract]
+Mao Ye, Yu Zhang, Ruigang Yang, Dinesh Manocha
+49	Deep Sparse Representation for Robust Image Registration [full paper] [ext. abstract]
+Yeqing Li, Chen Chen, Fei Yang, Junzhou Huang
+50	Real-Time Part-Based Visual Tracking via Adaptive Correlation Filters [full paper] [ext. abstract]
+Ting Liu, Gang Wang, Qingxiong Yang
+51	Beyond Spatial Pooling: Fine-Grained Representation Learning in Multiple Domains [full paper] [ext. abstract]
+Chi Li, Austin Reiter, Gregory D. Hager
+52	HC-Search for Structured Prediction in Computer Vision [full paper] [ext. abstract]
+Michael Lam, Janardhan Rao Doppa, Sinisa Todorovic, Thomas G. Dietterich
+53	Revisiting Kernelized Locality-Sensitive Hashing for Improved Large-Scale Image Retrieval [full paper] [ext. abstract]
+Ke Jiang, Qichao Que, Brian Kulis
+54	High-Speed Hyperspectral Video Acquisition With a Dual-Camera Architecture [full paper] [ext. abstract]
+Lizhi Wang, Zhiwei Xiong, Dahua Gao, Guangming Shi, Wenjun Zeng, Feng Wu
+55	More About VLAD: A Leap From Euclidean to Riemannian Manifolds [full paper] [ext. abstract]
+Masoud Faraki, Mehrtash T. Harandi, Fatih Porikli
+56	Camera Intrinsic Blur Kernel Estimation: A Reliable Framework [full paper] [ext. abstract]
+Ali Mosleh, Paul Green, Emmanuel Onzon, Isabelle Bégin, J.M. Pierre Langlois
+57	Classifier Learning With Hidden Information [full paper] [ext. abstract]
+Ziheng Wang, Qiang Ji
+58	Single Target Tracking Using Adaptive Clustered Decision Trees and Dynamic Multi-Level Appearance Models [full paper] [ext. abstract]
+Jingjing Xiao, Rustam Stolkin, Aleš Leonardis
+59	Simultaneous Video Defogging and Stereo Reconstruction [full paper] [ext. abstract]
+Zhuwen Li, Ping Tan, Robby T. Tan, Danping Zou, Steven Zhiying Zhou, Loong-Fah Cheong
+60	Face Alignment by Coarse-to-Fine Shape Searching [full paper] [ext. abstract]
+Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang
+61	Learning Deep Representations for Ground-to-Aerial Geolocalization [full paper] [ext. abstract]
+Tsung-Yi Lin, Yin Cui, Serge Belongie, James Hays
+62	Unsupervised Simultaneous Orthogonal Basis Clustering Feature Selection [full paper] [ext. abstract]
+Dongyoon Han, Junmo Kim
+63	Space-Time Tree Ensemble for Action Recognition [full paper] [ext. abstract]
+Shugao Ma, Leonid Sigal, Stan Sclaroff
+64	Subgraph Decomposition for Multi-Target Tracking [full paper] [ext. abstract]
+Siyu Tang, Bjoern Andres, Miykhaylo Andriluka, Bernt Schiele
+65	Understanding Image Structure via Hierarchical Shape Parsing [full paper] [ext. abstract]
+Xian-Ming Liu, Rongrong Ji, Changhu Wang, Wei Liu, Bineng Zhong, Thomas S. Huang
+66	Coarse-To-Fine Region Selection and Matching [full paper] [ext. abstract]
+Yanchao Yang, Zhaojin Lu, Ganesh Sundaramoorthi
+67	Label Consistent Quadratic Surrogate Model for Visual Saliency Prediction [full paper] [ext. abstract]
+Yan Luo, Yongkang Wong, Qi Zhao
+68	Subgraph Matching Using Compactness Prior for Robust Feature Correspondence [full paper] [ext. abstract]
+Yumin Suh, Kamil Adamczewski, Kyoung Mu Lee
+69	Pedestrian Detection Aided by Deep Learning Semantic Tasks [full paper] [ext. abstract]
+Yonglong Tian, Ping Luo, Xiaogang Wang, Xiaoou Tang
+70	Multihypothesis Trajectory Analysis for Robust Visual Tracking [full paper] [ext. abstract]
+Dae-Youn Lee, Jae-Young Sim, Chang-Su Kim
+71	Domain-Size Pooling in Local Descriptors: DSP-SIFT [full paper] [ext. abstract]
+Jingming Dong, Stefano Soatto
+72	Object Detection by Labeling Superpixels [full paper] [ext. abstract]
+Junjie Yan, Yinan Yu, Xiangyu Zhu, Zhen Lei, Stan Z. Li
+73	Fast 2D Border Ownership Assignment [full paper] [ext. abstract]
+Ching Teo, Cornelia Fermüller, Yiannis Aloimonos
+74	From Single Image Query to Detailed 3D Reconstruction [full paper] [ext. abstract]
+Johannes L. Schönberger, Filip Radenović, Ondrej Chum, Jan-Michael Frahm
+75	Fast and Flexible Convolutional Sparse Coding [full paper] [ext. abstract]
+Felix Heide, Wolfgang Heidrich, Gordon Wetzstein
+76	Iteratively Reweighted Graph Cut for Multi-Label MRFs With Non-Convex Priors [full paper] [ext. abstract]
+Thalaiyasingam Ajanthan, Richard Hartley, Mathieu Salzmann, Hongdong Li
+77	Pairwise Geometric Matching for Large-Scale Object Retrieval [full paper] [ext. abstract]
+Xinchao Li, Martha Larson, Alan Hanjalic
+78	Deep Convolutional Neural Fields for Depth Estimation From a Single Image [full paper] [ext. abstract]
+Fayao Liu, Chunhua Shen, Guosheng Lin
+79	Data-Driven Sparsity-Based Restoration of JPEG-Compressed Images in Dual Transform-Pixel Domain [full paper] [ext. abstract]
+Xianming Liu, Xiaolin Wu, Jiantao Zhou, Debin Zhao
+80	TVSum: Summarizing Web Videos Using Titles [full paper] [ext. abstract]
+Yale Song, Jordi Vallmitjana, Amanda Stent, Alejandro Jaimes
+81	Understanding Deep Image Representations by Inverting Them [full paper] [ext. abstract]
+Aravindh Mahendran, Andrea Vedaldi
+82	Single Image Super-Resolution From Transformed Self-Exemplars [full paper] [ext. abstract]
+Jia-Bin Huang, Abhishek Singh, Narendra Ahuja
+83	Constrained Planar Cuts - Object Partitioning for Point Clouds [full paper] [ext. abstract]
+Markus Schoeler, Jeremie Papon, Florentin Wörgötter
+84	A Weighted Sparse Coding Framework for Saliency Detection [full paper] [ext. abstract]
+Nianyi Li, Bilin Sun, Jingyi Yu
+85	Handling Motion Blur in Multi-Frame Super-Resolution [full paper] [ext. abstract]
+Ziyang Ma, Renjie Liao, Xin Tao, Li Xu, Jiaya Jia, Enhua Wu
+86	Approximate Nearest Neighbor Fields in Video [full paper] [ext. abstract]
+Nir Ben-Zrihem, Lihi Zelnik-Manor
+87	Inverting RANSAC: Global Model Detection via Inlier Rate Estimation [full paper] [ext. abstract]
+Roee Litman, Simon Korman, Alexander Bronstein, Shai Avidan
+88	Robust Multi-Image Based Blind Face Hallucination [full paper] [ext. abstract]
+Yonggang Jin, Christos-Savvas Bouganis
+89	On Learning Optimized Reaction Diffusion Processes for Effective Image Restoration [full paper] [ext. abstract]
+Yunjin Chen, Wei Yu, Thomas Pock
+90	A Flexible Tensor Block Coordinate Ascent Scheme for Hypergraph Matching [full paper] [ext. abstract]
+Quynh Nguyen, Antoine Gautier, Matthias Hein
+91	TILDE: A Temporally Invariant Learned DEtector [full paper] [ext. abstract]
+Yannick Verdie, Kwang Yi, Pascal Fua, Vincent Lepetit
+92	A Maximum Entropy Feature Descriptor for Age Invariant Face Recognition [full paper] [ext. abstract]
+Dihong Gong, Zhifeng Li, Dacheng Tao, Jianzhuang Liu, Xuelong Li
+93	Sense Discovery via Co-Clustering on Images and Text [full paper] [ext. abstract]
+Xinlei Chen, Alan Ritter, Abhinav Gupta, Tom Mitchell
+94	An Approximate Shading Model for Object Relighting [full paper] [ext. abstract]
+Zicheng Liao, Kevin Karsch, David Forsyth
+95	Deep Domain Adaptation for Describing People Based on Fine-Grained Clothing Attributes [full paper] [ext. abstract]
+Qiang Chen, Junshi Huang, Rogerio Feris, Lisa M. Brown, Jian Dong, Shuicheng Yan
+96	A Convolutional Neural Network Cascade for Face Detection [full paper] [ext. abstract]
+Haoxiang Li, Zhe Lin, Xiaohui Shen, Jonathan Brandt, Gang Hua
+97	Visual Vibrometry: Estimating Material Properties From Small Motion in Video [full paper] [ext. abstract]
+Abe Davis, Katherine L. Bouman, Justin G. Chen, Michael Rubinstein, Frédo Durand, William T. Freeman
+98	Jointly Learning Heterogeneous Features for RGB-D Activity Recognition [full paper] [ext. abstract]
+Jian-Fang Hu, Wei-Shi Zheng, Jianhuang Lai, Jianguo Zhang
+99	Convolutional Neural Networks at Constrained Time Cost [full paper] [ext. abstract]
+Kaiming He, Jian Sun
+100	Fine-Grained Histopathological Image Analysis via Robust Segmentation and Large-Scale Retrieval [full paper] [ext. abstract]
+Xiaofan Zhang, Hai Su, Lin Yang, Shaoting Zhang
+101	L0TV: A New Method for Image Restoration in the Presence of Impulse Noise [full paper] [ext. abstract]
+Ganzhao Yuan, Bernard Ghanem
+102	Modeling Video Evolution for Action Recognition [full paper] [ext. abstract]
+Basura Fernando, Efstratios Gavves, José Oramas M., Amir Ghodrati, Tinne Tuytelaars
+103	Long-Term Correlation Tracking [full paper] [ext. abstract]
+Chao Ma, Xiaokang Yang, Chongyang Zhang, Ming-Hsuan Yang
+104	Joint Tracking and Segmentation of Multiple Targets [full paper] [ext. abstract]
+Anton Milan, Laura Leal-Taixé, Konrad Schindler, Ian Reid
+105	RGBD-Fusion: Real-Time High Precision Depth Recovery [full paper] [ext. abstract]
+Roy Or - El, Guy Rosman, Aaron Wetzler, Ron Kimmel, Alfred M. Bruckstein
+106	Modeling Deformable Gradient Compositions for Single-Image Super-Resolution [full paper] [ext. abstract]
+Yu Zhu, Yanning Zhang, Boyan Bonev, Alan L. Yuille
+107	Generalized Video Deblurring for Dynamic Scenes [full paper] [ext. abstract]
+Tae Hyun Kim, Kyoung Mu Lee
+108	Active Pictorial Structures [full paper] [ext. abstract]
+Epameinondas Antonakos, Joan Alabort-i-Medina, Stefanos Zafeiriou
+109	Ego-Surfing First-Person Videos [full paper] [ext. abstract]
+Ryo Yonetani, Kris M. Kitani, Yoichi Sato
+110	Visual Saliency Based on Multiscale Deep Features [full paper] [ext. abstract]
+Guanbin Li, Yizhou Yu
+111	Recovering Inner Slices of Translucent Objects by Multi-Frequency Illumination [full paper] [ext. abstract]
+Kenichiro Tanaka, Yasuhiro Mukaigawa, Hiroyuki Kubo, Yasuyuki Matsushita, Yasushi Yagi
+112	Local High-Order Regularization on Data Manifolds [full paper] [ext. abstract]
+Kwang In Kim, James Tompkin, Hanspeter Pfister, Christian Theobalt
+113	Fine-Grained Classification of Pedestrians in Video: Benchmark and State of the Art [full paper] [ext. abstract]
+David Hall, Pietro Perona
+114	Curriculum Learning of Multiple Tasks [full paper] [ext. abstract]
+Anastasia Pentina, Viktoriia Sharmanska, Christoph H. Lampert
+115	How Many Bits Does it Take for a Stimulus to Be Salient? [full paper] [ext. abstract]
+Sayed Hossein Khatoonabadi, Nuno Vasconcelos, Ivan V. Bajic, Yufeng Shan
+116	Discrete Optimization of Ray Potentials for Semantic 3D Reconstruction [full paper] [ext. abstract]
+Nikolay Savinov, Ľubor Ladický, Christian Häne, Marc Pollefeys
+117	SOLD: Sub-Optimal Low-rank Decomposition for Efficient Video Segmentation [full paper] [ext. abstract]
+Chenglong Li, Liang Lin, Wangmeng Zuo, Shuicheng Yan, Jin Tang
+118	On the Appearance of Translucent Edges [full paper] [ext. abstract]
+Ioannis Gkioulekas, Bruce Walter, Edward H. Adelson, Kavita Bala, Todd Zickler
+119	On Pairwise Costs for Network Flow Multi-Object Tracking [full paper] [ext. abstract]
+Visesh Chari, Simon Lacoste-Julien, Ivan Laptev, Josef Sivic
+120	Fine-Grained Recognition Without Part Annotations [full paper] [ext. abstract]
+Jonathan Krause, Hailin Jin, Jianchao Yang, Li Fei-Fei
+121	Robust Reconstruction of Indoor Scenes [full paper] [ext. abstract]
+Sungjoon Choi, Qian-Yi Zhou, Vladlen Koltun

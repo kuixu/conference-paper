@@ -1,0 +1,129 @@
+(10) Questimator: Generating Knowledge Assessments for Arbitrary Topics
+    Qi Guo, Chinmay Kulkarni, Aniket Kittur, Jeffrey Bigham and Emma Brunskill
+
+(50) What does Social Media Say about Your Stress?
+    Huijie Lin, Jia Jia, Liqiang Nie, Guangyao Shen and Tat Seng Chua
+
+(139) Collaborative Evolution for User Profiling in Recommender Systems
+    Zhongqi Lu, Sinno Pan, Yong Li, Jie Jiang and Qiang Yang
+
+(196) Cross-media Shared Representation by Hierarchical Learning with Multiple Deep Networks
+    Yuxin Peng, Xin Huang and Jinwei Qi
+
+(211) HIEDS: A Generic and Efficient Approach to Hierarchical Dataset Summarization
+    Gong Cheng, Cheng Jin and Yuzhong Qu
+
+(502) ATUCAPTS: Automated Tests That a User Cannot Pass Twice Simultaneously
+    Garrett Andersen and Vincent Conitzer
+
+(571) Weakly-supervised Deep Learning for Customer Review Sentiment Classification
+    Ziyu Guan, Long Chen, Wei Zhao, Yi Zheng, Shulong Tan and Deng Cai
+
+(737) Efficient Algorithms for Spanning Tree Centrality
+    Takanori Hayashi, Takuya Akiba and Yuichi Yoshida
+
+(766) Timeline Summarization with Life Cycle Models
+    Yi Chang, Jiliang Tang, Dawei Yin and Yan Liu
+
+(872) Dynamic Task Allocation Algorithm for Hiring Workers that Learn
+    Shengying Pan, Kate Larson, Josh Bradshaw and Edith Law
+
+(1015) Causality based Propagation History Ranking in Social Networks
+    Zheng Wang, Chaokun Wang, Jisheng Pei, Xiaojun Ye and Philip S. Yu
+
+(1114) Intervention Strategies for Increasing Engagement in Volunteer-Based Crowdsourcing
+    Avi Segal, Kobi Gal, Ece Kamar, Eric Horvitz, Alex Bowyer and Grant Miller
+
+(1290) WebGazer: Scalable Eye Tracking Using User Interactions
+    Alexandra Papoutsaki, Patsorn Sangkloy, James Laskey, Nediyana Daskalova, Jeff Huang and James Hays
+
+(1343) Item Recommendation for Emerging Online Businesses
+    Chun-Ta Lu, Sihong Xie, Weixiang Shao, Lifang He and Philip Yu
+
+(1433) Bayesian Probabilistic Multi-Topic Matrix Factorization For Rating Prediction
+    Keqiang Wang and Wayne Xin Zhao
+
+(1437) Learning Compact Visual Representation with Canonical Views for Robust Mobile Landmark Search
+    Lei Zhu, Jialie Shen, Xiaobai Liu and Liang Xie
+
+(1489) Modeling the Homophily Effect between Links and Communities for Overlapping Community Detection
+    Hongyi Zhang, Tong Zhao, Irwin King and Michael R. Lyu
+
+(1547) Understanding Information Diffusion under Interactions
+    Yuan Su, Xi Zhang, Philip S. Yu, Wen Hua, Xiaofang Zhou and Binxing Fang
+
+(1606) Learning Hostname Preference to Enhance Search Relevance
+    Jingjing Wang, Changsung Kang, Yi Chang and Jiawei Han
+
+(1648) We Like Free Food: Improving Action Recognition Using Web Images
+    Chuang Gan, Ting Yao, Gerard de Melo, Yi Yang and Tao Mei
+
+(1693) Pay Me and I’ll Follow You: Detection of Crowdturfing Following Activities in Microblog Environment
+    Yuli Liu, Yiqun Liu, Min Zhang and Shaoping Ma
+
+(1727) A Framework for Recommending Relevant and Diverse Items
+    Chaofeng Sha, Xiaowei Wu and Junyu Niu
+
+(1764) Inferring Motif-Based Diffusion Models for Social Networks
+    Qing Bao, William Kwok Wai Cheung and Jiming Liu
+
+(1836) Learning Defining Features for Categories
+    Bo Xu, Chenhao Xie, Yi Zhang, Yanghua Xiao, Haixun Wang and Wei Wang
+
+(1863) Learning Deep Intrinsic Video Representation by Exploring Temporal Coherence and Graph Structure
+    Yingwei Pan, Yehao Li, Ting Yao, Tao Mei, Houqiang Li and Yong Rui
+
+(2033) Deep Semantics-preserving and Ranking-based Hashing for Image Retrieval
+    Ting Yao, Fuchen Long, Tao Mei and Yong Rui
+
+(2081) KOGNAC: Efficient Encoding of Large Knowledge Graphs
+    Jacopo Urbani, Sourav Dutta, Sairam Gurajada and Gerhard Weikum
+
+(2115) Learning to Incentivize: Eliciting Effort via Output Agreement
+    Yang Liu and Yiling Chen
+
+(2193) Multi-source Iterative Adaptation for Cross-domain Classification
+    Himanshu Bhatt, Arun Rajkumar and Shourya Roy
+
+(2331) Domain adaptation for learning from label proportions using self-training
+    Ehsan Mohammady Ardehaly and Aron Culotta
+
+(2376) On The Use Of Non-Objection Inference In Inconsistent Lightweight Ontologies
+    Zied Bouraoui, Salem Benferhat, Madalina Croitoru, Odile Papini and Karim Tabia
+
+(2448) Content-driven Detection of Cyberbullying on the Instagram Social Network
+    Haoti Zhong, Hao Li, Anna Squicciarini, Sarah Rajtmajer, Christopher Griffin, David Miller and Cornelia Caragea
+
+(2602) Sherlock: Sparse Hierarchical Embeddings for Visually-aware One-class Collaborative Filtering
+    Ruining He, Chunbin Lin, Jianguo Wang and Julian McAuley
+
+(2615) Real-Time Web Scale Event Summarization Using Sequential Decision Making
+    Chris Kedzie, Fernando Diaz and Kathleen Mckeown
+
+(2624) Matching via Dimensionality Reduction for Estimation of Treatment Effects in Digital Marketing Campaigns
+    Sheng Li, Nikos Vlassis, Jaya Kawale and Yun Fu
+
+(2690) Matrix Factorization+ for Movie Recommendation
+    Lili Zhao, Zhongqi Lu, Sinno Jialin Pan and Qiang Yang
+
+(2795) Detecting Rumors from Microblogs with Recurrent Neural Networks
+    Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong and Meeyoung Cha
+
+(2814) Assessing Translation Ability through Vocabulary Ability Assessment
+    Yo Ehara, Yukino Baba, Masao Utiyama and Eiichiro Sumita
+
+(2826) Practical linear models for large-scale one-class collaborative filtering
+    Suvash Sedhain, Hung Bui, Jaya Kawale, Nikos Vlassis, Branislav Kveton, Aditya Menon, Trung Bui and Scott Sanner
+
+(2828) Max-Margin DeepWalk: Discriminative Learning of Network Representation
+    Cunchao Tu, Weicheng Zhang, Zhiyuan Liu and Maosong Sun
+
+(2830) Ordering Concepts Based on Common Attribute Intensity
+    Tatsuya Iwanari, Naoki Yoshinaga, Masashi Toyoda and Masaru Kitsuregawa
+
+(2835) Identifying Key Observers to Find Popular Information in Advance
+    Takuya Konishi, Tomoharu Iwata, Kohei Hayashi and Ken-Ichi Kawarabayashi
+
+(2873) Progressive Comparison for Ranking Estimation
+    Ryusuke Takahama, Toshihiro Kamishima and Hisashi Kashima
+
